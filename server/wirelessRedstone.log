@@ -1,0 +1,3 @@
+
+1362325928470:INFO:SERVER:WirelessRedstone:Loading Properties.:ConfigStoreRedstoneWireless.getInstance->ConfigStoreRedstoneWireless.<init>->ConfigStoreRedstoneWireless.loadProperties
+1362325928471:DEBUG:SERVER:WirelessRedstone:Log.Level=INFO:WRCore.loadConfig->ConfigStoreRedstoneWireless.getInstance->ConfigStoreRedstoneWireless.get

@@ -1,0 +1,1 @@
+"%programfiles%\Java\jre7\bin\javaw.exe" -Xms1024M -Xmx1024M -jar minecraft_server.jar gui

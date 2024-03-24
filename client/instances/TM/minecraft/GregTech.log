@@ -1,0 +1,6350 @@
+GT_Mod: Creating Config Object.
+GT_Mod: Generating Lang-File
+GT_Mod: Removing all Scrapbox Drops.
+GT_Mod: Adding Scrap with a Chance of 200.00F to the Scrapbox Drops.
+GT_Mod: Preload-Phase finished!
+GT_Mod: Beginning Load-Phase.
+GT_Mod: Adding Blocks.
+GT_Mod: Register OreDict Entries of Non-GT-Items.
+GT_Mod: Register Unification Entries
+GT_Mod: Register other Mods Unification Targets.
+GT_Mod: Register TileEntities.
+GT_Mod: Register MetaTileEntities.
+GT_Mod: Register Armor Textures.
+GT_Mod: Register Meta-ID Items.
+GT_Mod: Adding All Sub-Items with their OreDict and LiquidDict Entries.
+GT_Mod: Trying to add Nuclear Control Sensor Kit/Card...
+GT_Mod: ...failed.
+GT_Mod: Register Regular Items.
+GT_Mod: Hiding certain Items from NEI.
+GT_Mod: Register regular Item Names.
+GT_Mod: Registering GT/IC2-Circuitry and similar to the OreDict.
+GT_Mod: Register colors to the OreDict.
+GT_Mod: Load-Phase finished!
+GT_Mod: Beginning PostLoad-Phase.
+GT_Mod: Initializing Proxy.
+GT_Mod: Checking if Items got Overloaded.
+GT_Mod: Scanning ItemList.
+GT_Mod: Getting Storage Blocks of Redpower for the OreDictUnification.
+GT_Mod: Grabbing Liquids of other Mods to register Liquid Cells, and adding Liquid Transposer Recipes for them
+GT_Mod: Initializing various Fuels.
+GT_Mod: Changing maximum Stacksizes if configured.
+GT_Mod: Adding Dungeon Loot.
+GT_Mod: Adding non-OreDict Machine Recipes.
+GT_Mod: Adding Stuff to the Recycler Blacklist.
+GT_Mod: (re-)adding Scrapbox Drops.
+GT_Mod: Adding Slab Recipes.
+GT_Mod: Adding Wool and Color releated Recipes.
+GT_Mod: Adding 'The holy Planks of Sengir'.
+GT_Mod: Nerfing Forestrys invalid Bronze Recipe (even though it's still logical, seeing the amount of Ingots, but IC added Bronze first, so...).
+GT_Mod: Adding Rolling Machine Recipes.
+GT_Mod: Beginning to add regular Crafting Recipes.
+GT_Mod: Applying harder Recipes for Electric Tools and several Blocks.
+GT_Mod: Removing Q-Armor Recipes if configured.
+GT_Mod: Removing Mass Fabricator Recipe if configured.
+GT_Mod: Adding/Removing/Overloading UUM Recipes.
+GT_Mod: Adding all the Reverse Recipes for the Furnace/Macerator.
+GT_Mod: Adding JackHammer minable Blocks.
+GT_Mod: Adding Glowstone, Lava and Soulsand to the miners Valuable List.
+GT_Mod: Activating OreDictionary Handler
+GT_Mod: Iterating through the Seed-List of ForgeHooks, with a brilliant and 100% Invocation-free Method, to add Recipes for gaining Seed Oil from Seeds.
+GT_Mod: Iterating through the Grass-Flower-List of ForgeHooks, with a brilliant and 100% Invocation-free Method, to add Extractor Recipes for gaining more Dye from Flowers.
+GT_Mod: Forestry was properly loaded, so the Seed Recipes got added to the Squeezer.
+GT_Mod: Adding Default Description Set of the Computer Cube
+GT_Mod: Saving Lang File now.
+GT_Mod: PostLoad-Phase finished!
+*
+Printing List of all registered Objects inside the OreDictionary:
+*
+*
+*
+
+chunkLazurite
+blockEmerald
+nuggetLead
+dustSmallUvarovite
+molecule_1na_1s
+treeSapling
+slabWood
+dustObsidian
+oreSapphire
+itemGrinder
+plateCopperDense
+gemOlivine
+dropHoneydew
+dustSmallGreenSapphire
+dustSmallBronze
+craftingConveyor
+oreBauxite
+nuggetZinc
+gemCopper
+60kEUPack
+gemApatite
+10kkEUStore
+dustSmallCalcite
+nuggetPlatinum
+blockPlatinum
+blockSilver
+gemAluminium
+dustSmallUranium
+dustEndstone
+LiBattery
+ingotPlutonium
+dyeGreen
+nuggetTin
+ingotTungstenSteel
+beeComb
+180kCoolantStore
+blockElectrum
+dyeLightBlue
+blockGold
+itemDiamond
+gemGarnetYellow
+dustSmallAndradite
+battery
+dyePurple
+molecule_1si
+itemBeeswax
+nuggetElectrum
+plateSilicon
+dustSmallPyrite
+dustSmallSaltpeter
+dustMagnesium
+dustChrome
+itemQuicksilver
+dustSmallGold
+blockIridium
+nuggetAluminium
+30kCoolantStore
+fuelCoke
+ingotBrass
+gemGold
+oreGalena
+itemRecord
+circuitTier02
+circuitTier01
+circuitTier04
+oreLapis
+ingotSilver
+circuitTier03
+dustSmallNickel
+dustSmallPhosphorus
+circuitTier00
+nuggetIron
+circuitTier05
+circuitTier06
+logWood
+circuitTier07
+circuitTier08
+blockTungstenSteel
+stoneBasalt
+dustEmerald
+dustTin
+dyeRed
+ingotUranium
+dustSmallEnderEye
+dustSaltpeter
+ingotPlatinum
+oreSulfur
+dustPyrope
+stickWood
+blockBrass
+dustGlowstone
+basicCircuit
+ingotThorium
+dustSmallGlowstone
+dustZinc
+stoneMarble
+oreEndOlivine
+dustRuby
+10kkEUPack
+oreCoal
+nuggetInvar
+dustBauxite
+blockGreenSapphire
+circuitTier10
+dustCharcoal
+craftingEnderChest
+treeLeaves
+dustRedstone
+nuggetSteel
+dustPlutonium
+gemTin
+blockOlivine
+dustTungsten
+dustSmallAsh
+dustSmallThorium
+dustSmallDarkAsh
+gemNickel
+blockAluminum
+ingotNickel
+gemSilver
+blockIron
+molecule_1me
+dustSmallPlatinum
+dustSmallTungsten
+molecule_2na_2s_8o
+dyeCyan
+blockGarnetRed
+dustSmallGarnetYellow
+ingotOlivine
+nuggetBronze
+ingotLapis
+blockApatite
+molecule_1na
+blockUranium
+dustSmallTitanium
+ingotEmerald
+nuggetTungsten
+itemRubber
+dustSmallPlutonium
+dustSmallBrass
+dustAluminium
+gemEmerald
+ingotAluminum
+oreRuby
+ingotChrome
+brickPeat
+dustCoal
+gemLead
+dustBronze
+blockSteel
+dustRedRock
+molecule_1li
+ingotDiamond
+oreApatite
+ingotSteel
+craftingSaltpeterToGunpowder
+molecule_1he3
+blockSapphire
+gemBronze
+ingotCopper
+dustSpessartine
+gemBrass
+gemIron
+ingotIron
+gemGreenSapphire
+dustGreenSapphire
+nuggetCopper
+molecule_1c_4h
+dyeYellow
+stoneNetherBrick
+blockTitanium
+ingotElectrum
+nuggetIridium
+dustSmallPyrope
+gemSapphire
+oreNetherPyrite
+dustSmallLazurite
+blockLapis
+nuggetChrome
+itemSuperconductor
+dustCalcite
+oreEndSodalite
+blockRefinedIron
+blockLead
+blockGarnetYellow
+gearTin
+oreNetherCinnabar
+dustNetherrack
+gemRuby
+stairWood
+dustSmallCinnabar
+dustSmallEndstone
+dustGarnetRed
+dustSmallSilver
+dustSilver
+oreEndCooperite
+stoneNetherrack
+oreEmerald
+heatingCoilTier01
+heatingCoilTier02
+dyeOrange
+heatingCoilTier00
+dustSmallClay
+dustSmallElectrum
+molecule_3c_5h_3n_9o
+craftingWorkBench
+woodRubber
+dustSmallSodalite
+oreNetherSphalerite
+blockDiamond
+dustSapphire
+nuggetSilver
+molecule_1cl
+molecule_2h_1s_4o
+dustSmallGrossular
+dustRefinedIron
+gemTitanium
+dustSmallOlivine
+molecule_1ca
+gemUranium
+dustAluminum
+dustSmallRedstone
+gemTungsten
+oreNikolite
+dustEnderPearl
+dyeGray
+dustSmallSulfur
+oreDiamond
+dustSmallCharcoal
+gearBronze
+ingotTitanium
+gemGarnetRed
+ingotIridium
+ingotLead
+dustNickel
+dustSmallGalena
+ingotBronze
+plankWood
+dustSmallAluminium
+dropUranium
+dustInvar
+dustSmallSapphire
+ingotInvar
+dustNikolite
+dustAlmandine
+dyeLightGrey
+dyePink
+ingotAluminium
+oreGold
+ingotZinc
+10kEUStore
+oreIridium
+dustIron
+gemLapis
+dustSphalerite
+dustSmallGarnetRed
+dustSmallGunpowder
+molecule_1he
+blockCopper
+molecule_1hg
+blockNickel
+blockTungsten
+dustSmallMagnesium
+molecule_1ca_1c_3o
+nuggetBrass
+oreLead
+dustSmallDiamond
+gemPlatinum
+dyeBlack
+oreGreenSapphire
+itemDuctTape
+dustCinnabar
+dustSulfur
+dustSmallSpessartine
+nuggetGold
+oreTin
+dustSmallObsidian
+dustUranium
+dustSmallAlmandine
+molecule_1h2
+itemMachineParts
+molecule_1h3
+dustGrossular
+dustSmallEnderPearl
+dustSteel
+itemDiamondBlade
+ingotTin
+1kkEUStore
+dustSmallBauxite
+dustEnderEye
+dustManganese
+dustBasalt
+nuggetTitanium
+advancedCircuit
+dustFlint
+dustOlivine
+plateIridium
+dyeWhite
+dustDiamond
+copperWire
+woodLog
+oreTungsten
+nuggetNickel
+oreNickel
+gemZinc
+dyeLightGray
+stoneEnd
+dustSmallRefinedIron
+dyeBlue
+itemIridium
+gearCopper
+60kCoolantStore
+dustWood
+blockRuby
+plateMagnalium
+gemElectrum
+gemChrome
+600kEUPack
+ingotRuby
+dustGold
+dyeMagenta
+dustSmallCoal
+monitorTier02
+dustSmallChrome
+orePlatinum
+dustSmallEmerald
+dropHoney
+dustPhosphorus
+dustMarble
+ingotRefinedIron
+blockTin
+dyeLime
+dustSmallMarble
+eliteCircuit
+craftingSulfurToGunpowder
+dustBrass
+gearInvar
+360kCoolantStore
+ingotGreenSapphire
+10kCoolantStore
+dustSmallTin
+blockChrome
+ingotTungsten
+dustSmallNetherrack
+dustSmallLead
+dustSodalite
+dustSmallRuby
+ingotMagnesium
+dyeBrown
+dustSmallSteel
+blockBronze
+dustLazurite
+oreEndTungstate
+300kEUPack
+dustTitanium
+oreZinc
+dustAsh
+dustAndradite
+craftingTank
+molecule_1n_1c
+dustPyrite
+dustSmallZinc
+dustSmallFlint
+itemLazurite
+blockZinc
+dustThorium
+dustSmallBasalt
+advancedBattery
+itemPollen
+dustSmallSphalerite
+dustSmallInvar
+ingotSapphire
+dustSmallCopper
+craftingPump
+gemSteel
+blockAluminium
+dustGarnetYellow
+molecule_1d
+molecule_1c
+dustElectrum
+100kEUStore
+dustSmallWood
+molecule_1n_2o
+blockInvar
+dustGunpowder
+dustSmallRedRock
+dustSmallManganese
+molecule_1w
+molecule_1t
+dustLead
+molecule_1s
+dustSmallIron
+molecule_1n
+molecule_1o
+oreUranium
+dropRoyalJelly
+oreRedstone
+dustClay
+molecule_1k
+molecule_1h
+dustPlatinum
+oreCopper
+dustDarkAsh
+dustLapis
+ingotGold
+dyeGrey
+dustGalena
+oreIron
+oreSilver
+molecule_1be
+molecule_2o
+glassReinforced
+rawMachineTier00
+rawMachineTier01
+rawMachineTier02
+craftingTeleporter
+gemAluminum
+dustUvarovite
+rawMachineTier03
+rawMachineTier04
+gemDiamond
+oreSaltpeter
+dustCopper
+pulpWood
+*
+*
+*
+Outputting all the Names inside the Itemslist, this List can become very long
+*
+*
+*
+tile.stone
+tile.grass
+tile.dirt
+tile.stonebrick
+tile.wood
+0: tile.wood
+1: tile.wood
+2: tile.wood
+3: tile.wood
+4: tile.wood
+5: tile.wood
+6: tile.wood
+7: tile.wood
+8: tile.wood
+9: tile.wood
+10: tile.wood
+11: tile.wood
+12: tile.wood
+13: tile.wood
+14: tile.wood
+15: tile.wood
+tile.sapling
+0: tile.sapling
+1: tile.sapling
+2: tile.sapling
+3: tile.sapling
+4: tile.sapling
+5: tile.sapling
+6: tile.sapling
+7: tile.sapling
+8: tile.sapling
+9: tile.sapling
+10: tile.sapling
+11: tile.sapling
+12: tile.sapling
+13: tile.sapling
+14: tile.sapling
+15: tile.sapling
+tile.bedrock
+tile.water
+tile.water
+tile.lava
+tile.lava
+tile.sand
+tile.gravel
+tile.oreGold
+tile.oreIron
+tile.oreCoal
+tile.log
+0: tile.log
+1: tile.log
+2: tile.log
+3: tile.log
+4: tile.log
+5: tile.log
+6: tile.log
+7: tile.log
+8: tile.log
+9: tile.log
+10: tile.log
+11: tile.log
+12: tile.log
+13: tile.log
+14: tile.log
+15: tile.log
+tile.leaves
+0: tile.leaves
+1: tile.leaves
+2: tile.leaves
+3: tile.leaves
+4: tile.leaves
+5: tile.leaves
+6: tile.leaves
+7: tile.leaves
+8: tile.leaves
+9: tile.leaves
+10: tile.leaves
+11: tile.leaves
+12: tile.leaves
+13: tile.leaves
+14: tile.leaves
+15: tile.leaves
+tile.sponge
+tile.glass
+tile.oreLapis
+tile.blockLapis
+tile.dispenser
+tile.sandStone
+0: tile.sandStone
+1: tile.sandStone
+2: tile.sandStone
+3: tile.sandStone
+4: tile.sandStone
+5: tile.sandStone
+6: tile.sandStone
+7: tile.sandStone
+8: tile.sandStone
+9: tile.sandStone
+10: tile.sandStone
+11: tile.sandStone
+12: tile.sandStone
+13: tile.sandStone
+14: tile.sandStone
+15: tile.sandStone
+tile.musicBlock
+tile.bed
+tile.goldenRail
+tile.detectorRail
+tile.pistonStickyBase
+tile.web
+tile.tallgrass
+0: tile.tallgrass
+1: tile.tallgrass
+2: tile.tallgrass
+3: tile.tallgrass
+4: tile.tallgrass
+5: tile.tallgrass
+6: tile.tallgrass
+7: tile.tallgrass
+8: tile.tallgrass
+9: tile.tallgrass
+10: tile.tallgrass
+11: tile.tallgrass
+12: tile.tallgrass
+13: tile.tallgrass
+14: tile.tallgrass
+15: tile.tallgrass
+tile.deadbush
+tile.pistonBase
+null
+tile.cloth
+0: tile.cloth
+1: tile.cloth
+2: tile.cloth
+3: tile.cloth
+4: tile.cloth
+5: tile.cloth
+6: tile.cloth
+7: tile.cloth
+8: tile.cloth
+9: tile.cloth
+10: tile.cloth
+11: tile.cloth
+12: tile.cloth
+13: tile.cloth
+14: tile.cloth
+15: tile.cloth
+null
+tile.flower
+tile.rose
+tile.mushroom
+tile.mushroom
+tile.blockGold
+tile.blockIron
+tile.stoneSlab
+0: tile.stoneSlab
+1: tile.stoneSlab
+2: tile.stoneSlab
+3: tile.stoneSlab
+4: tile.stoneSlab
+5: tile.stoneSlab
+6: tile.stoneSlab
+7: tile.stoneSlab
+8: tile.stoneSlab
+9: tile.stoneSlab
+10: tile.stoneSlab
+11: tile.stoneSlab
+12: tile.stoneSlab
+13: tile.stoneSlab
+14: tile.stoneSlab
+15: tile.stoneSlab
+tile.stoneSlab
+0: tile.stoneSlab
+1: tile.stoneSlab
+2: tile.stoneSlab
+3: tile.stoneSlab
+4: tile.stoneSlab
+5: tile.stoneSlab
+6: tile.stoneSlab
+7: tile.stoneSlab
+8: tile.stoneSlab
+9: tile.stoneSlab
+10: tile.stoneSlab
+11: tile.stoneSlab
+12: tile.stoneSlab
+13: tile.stoneSlab
+14: tile.stoneSlab
+15: tile.stoneSlab
+tile.brick
+tile.tnt
+tile.bookshelf
+tile.stoneMoss
+tile.obsidian
+tile.torch
+tile.fire
+tile.mobSpawner
+0: tile.mobSpawner
+1: tile.mobSpawner
+2: tile.mobSpawner
+3: tile.mobSpawner
+4: tile.mobSpawner
+5: tile.mobSpawner
+6: tile.mobSpawner
+7: tile.mobSpawner
+8: tile.mobSpawner
+9: tile.mobSpawner
+10: tile.mobSpawner
+11: tile.mobSpawner
+12: tile.mobSpawner
+13: tile.mobSpawner
+14: tile.mobSpawner
+15: tile.mobSpawner
+tile.stairsWood
+tile.chest
+tile.redstoneDust
+tile.oreDiamond
+tile.blockDiamond
+tile.workbench
+tile.crops
+tile.farmland
+tile.furnace
+tile.furnace
+tile.sign
+tile.doorWood
+tile.ladder
+tile.rail
+tile.stairsStone
+tile.sign
+tile.lever
+tile.pressurePlate
+tile.doorIron
+tile.pressurePlate
+tile.oreRedstone
+tile.oreRedstone
+tile.notGate
+tile.notGate
+tile.button
+tile.snow
+tile.ice
+tile.snow
+tile.cactus
+tile.clay
+tile.reeds
+tile.jukebox
+tile.fence
+tile.pumpkin
+tile.hellrock
+tile.hellsand
+tile.lightgem
+tile.portal
+tile.litpumpkin
+tile.cake
+tile.diode
+tile.diode
+tile.lockedchest
+tile.trapdoor
+tile.monsterStoneEgg
+0: tile.monsterStoneEgg
+1: tile.monsterStoneEgg
+2: tile.monsterStoneEgg
+3: tile.monsterStoneEgg
+4: tile.monsterStoneEgg
+5: tile.monsterStoneEgg
+6: tile.monsterStoneEgg
+7: tile.monsterStoneEgg
+8: tile.monsterStoneEgg
+9: tile.monsterStoneEgg
+10: tile.monsterStoneEgg
+11: tile.monsterStoneEgg
+12: tile.monsterStoneEgg
+13: tile.monsterStoneEgg
+14: tile.monsterStoneEgg
+15: tile.monsterStoneEgg
+tile.stonebricksmooth
+0: tile.stonebricksmooth
+1: tile.stonebricksmooth
+2: tile.stonebricksmooth
+3: tile.stonebricksmooth
+4: tile.stonebricksmooth
+5: tile.stonebricksmooth
+6: tile.stonebricksmooth
+7: tile.stonebricksmooth
+8: tile.stonebricksmooth
+9: tile.stonebricksmooth
+10: tile.stonebricksmooth
+11: tile.stonebricksmooth
+12: tile.stonebricksmooth
+13: tile.stonebricksmooth
+14: tile.stonebricksmooth
+15: tile.stonebricksmooth
+tile.mushroom
+tile.mushroom
+tile.fenceIron
+tile.thinGlass
+tile.melon
+tile.pumpkinStem
+tile.pumpkinStem
+tile.vine
+tile.fenceGate
+tile.stairsBrick
+tile.stairsStoneBrickSmooth
+tile.mycel
+tile.waterlily
+tile.netherBrick
+tile.netherFence
+tile.stairsNetherBrick
+tile.netherStalk
+tile.enchantmentTable
+tile.brewingStand
+tile.cauldron
+null
+tile.endPortalFrame
+tile.whiteStone
+tile.dragonEgg
+tile.redstoneLight
+tile.redstoneLight
+tile.woodSlab
+0: tile.woodSlab
+1: tile.woodSlab
+2: tile.woodSlab
+3: tile.woodSlab
+4: tile.woodSlab
+5: tile.woodSlab
+6: tile.woodSlab
+7: tile.woodSlab
+8: tile.woodSlab
+9: tile.woodSlab
+10: tile.woodSlab
+11: tile.woodSlab
+12: tile.woodSlab
+13: tile.woodSlab
+14: tile.woodSlab
+15: tile.woodSlab
+tile.woodSlab
+0: tile.woodSlab
+1: tile.woodSlab
+2: tile.woodSlab
+3: tile.woodSlab
+4: tile.woodSlab
+5: tile.woodSlab
+6: tile.woodSlab
+7: tile.woodSlab
+8: tile.woodSlab
+9: tile.woodSlab
+10: tile.woodSlab
+11: tile.woodSlab
+12: tile.woodSlab
+13: tile.woodSlab
+14: tile.woodSlab
+15: tile.woodSlab
+tile.cocoa
+tile.stairsSandStone
+tile.oreEmerald
+tile.enderChest
+tile.tripWireSource
+tile.tripWire
+tile.blockEmerald
+tile.stairsWoodSpruce
+tile.stairsWoodBirch
+tile.stairsWoodJungle
+tile.commandBlock
+tile.beacon
+tile.cobbleWall
+0: tile.cobbleWall
+1: tile.cobbleWall
+2: tile.cobbleWall
+3: tile.cobbleWall
+4: tile.cobbleWall
+5: tile.cobbleWall
+6: tile.cobbleWall
+7: tile.cobbleWall
+8: tile.cobbleWall
+9: tile.cobbleWall
+10: tile.cobbleWall
+11: tile.cobbleWall
+12: tile.cobbleWall
+13: tile.cobbleWall
+14: tile.cobbleWall
+15: tile.cobbleWall
+tile.flowerPot
+tile.carrots
+tile.potatoes
+tile.button
+tile.skull
+tile.anvil
+0: tile.anvil
+1: tile.anvil
+2: tile.anvil
+3: tile.anvil
+4: tile.anvil
+5: tile.anvil
+6: tile.anvil
+7: tile.anvil
+8: tile.anvil
+9: tile.anvil
+10: tile.anvil
+11: tile.anvil
+12: tile.anvil
+13: tile.anvil
+14: tile.anvil
+15: tile.anvil
+null
+0: null
+null
+0: null
+1: null
+2: null
+null
+0: null
+1: null
+tile.rplog
+tile.rpleaves
+tile.indigo
+0: tile.indigo
+1: tile.indigo
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+tile.rpores
+0: tile.rpores
+1: tile.rpores
+2: tile.rpores
+3: tile.rpores
+4: tile.rpores
+5: tile.rpores
+6: tile.rpores
+7: tile.rpores
+tile.rpstone
+0: tile.rpstone
+1: tile.rpstone
+2: tile.rpstone
+3: tile.rpstone
+4: tile.rpstone
+5: tile.rpstone
+6: tile.rpstone
+tile.twilight
+tile.serenitygrass
+tile.serenitydirt
+tile.Azuritegrass
+tile.Azuritedirt
+tile.energygrass
+tile.energydirt
+tile.mythilgrass
+tile.mythildirt
+tile.densegrass
+tile.densedirt
+tile.iceikadirt
+tile.iceikagrass
+tile.bloodgemore
+tile.iceikaStone
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+10: null
+11: null
+12: null
+13: null
+14: null
+15: null
+tile.rplampon
+0: tile.rplampon
+1: tile.rplampon
+2: tile.rplampon
+3: tile.rplampon
+4: tile.rplampon
+5: tile.rplampon
+6: tile.rplampon
+7: tile.rplampon
+8: tile.rplampon
+9: tile.rplampon
+10: tile.rplampon
+11: tile.rplampon
+12: tile.rplampon
+13: tile.rplampon
+14: tile.rplampon
+15: tile.rplampon
+tile.rplampoff
+tile.rplampon
+tile.rplampoff
+0: tile.rplampoff
+1: tile.rplampoff
+2: tile.rplampoff
+3: tile.rplampoff
+4: tile.rplampoff
+5: tile.rplampoff
+6: tile.rplampoff
+7: tile.rplampoff
+8: tile.rplampoff
+9: tile.rplampoff
+10: tile.rplampoff
+11: tile.rplampoff
+12: tile.rplampoff
+13: tile.rplampoff
+14: tile.rplampoff
+15: tile.rplampoff
+null
+0: null
+1: null
+2: null
+null
+0: null
+tile.rpframe
+0: tile.rpframe
+2: tile.rpframe
+3: tile.rpframe
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+null
+0: null
+1: null
+tile.rpmachine2
+0: tile.rpmachine2
+1: tile.rpmachine2
+2: tile.rpmachine2
+3: tile.rpmachine2
+4: tile.rpmachine2
+5: tile.rpmachine2
+6: tile.rpmachine2
+7: tile.rpmachine2
+8: tile.rpmachine2
+9: tile.rpmachine2
+10: tile.rpmachine2
+11: tile.rpmachine2
+12: tile.rpmachine2
+13: tile.rpmachine2
+14: tile.rpmachine2
+15: tile.rpmachine2
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+tile.blockIronScaffold
+null
+tile.blockCrop
+tile.blockLuminatorD
+tile.blockScaffold
+tile.blockWall
+tile.blockFoam
+null
+0: null
+1: null
+2: null
+null
+0: null
+1: null
+2: null
+3: null
+null
+0: null
+1: null
+2: null
+tile.blockLuminator
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+null
+tile.blockDoorAlloy
+tile.blockAlloyGlass
+tile.blockAlloy
+tile.blockFenceIron
+tile.blockReactorChamber
+tile.blockRubber
+tile.blockDynamiteRemote
+tile.blockDynamite
+tile.blockNuke
+null
+tile.blockITNT
+tile.blockRubSapling
+tile.leaves
+tile.blockRubWood
+tile.blockMiningTip
+tile.blockMiningPipe
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+tile.blockOreUran
+tile.blockOreTin
+tile.blockOreCopper
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+10: null
+11: null
+12: null
+13: null
+14: null
+15: null
+tile.enderchest
+0: tile.enderchest
+1: tile.enderchest
+2: tile.enderchest
+3: tile.enderchest
+4: tile.enderchest
+5: tile.enderchest
+6: tile.enderchest
+7: tile.enderchest
+8: tile.enderchest
+9: tile.enderchest
+10: tile.enderchest
+11: tile.enderchest
+12: tile.enderchest
+13: tile.enderchest
+14: tile.enderchest
+15: tile.enderchest
+tile.rpwire
+0: tile.rpwire
+1: tile.rpwire
+2: tile.rpwire
+3: tile.rpwire
+4: tile.rpwire
+5: tile.rpwire
+6: tile.rpwire
+7: tile.rpwire
+8: tile.rpwire
+9: tile.rpwire
+10: tile.rpwire
+11: tile.rpwire
+12: tile.rpwire
+13: tile.rpwire
+14: tile.rpwire
+15: tile.rpwire
+tile.rupeeore
+tile.arlemiteore
+tile.realmiteore
+item.shovelIron
+item.pickaxeIron
+item.hatchetIron
+item.flintAndSteel
+item.apple
+item.bow
+item.arrow
+item.coal
+0: item.coal
+1: item.coal
+2: item.coal
+3: item.coal
+4: item.coal
+5: item.coal
+6: item.coal
+7: item.coal
+8: item.coal
+9: item.coal
+10: item.coal
+11: item.coal
+12: item.coal
+13: item.coal
+14: item.coal
+15: item.coal
+item.diamond
+item.ingotIron
+item.ingotGold
+item.swordIron
+item.swordWood
+item.shovelWood
+item.pickaxeWood
+item.hatchetWood
+item.swordStone
+item.shovelStone
+item.pickaxeStone
+item.hatchetStone
+item.swordDiamond
+item.shovelDiamond
+item.pickaxeDiamond
+item.hatchetDiamond
+item.stick
+item.bowl
+item.mushroomStew
+item.swordGold
+item.shovelGold
+item.pickaxeGold
+item.hatchetGold
+item.string
+item.feather
+item.sulphur
+item.hoeWood
+item.hoeStone
+item.hoeIron
+item.hoeDiamond
+item.hoeGold
+item.seeds
+item.wheat
+item.bread
+item.helmetCloth
+item.chestplateCloth
+item.leggingsCloth
+item.bootsCloth
+item.helmetChain
+item.chestplateChain
+item.leggingsChain
+item.bootsChain
+item.helmetIron
+item.chestplateIron
+item.leggingsIron
+item.bootsIron
+item.helmetDiamond
+item.chestplateDiamond
+item.leggingsDiamond
+item.bootsDiamond
+item.helmetGold
+item.chestplateGold
+item.leggingsGold
+item.bootsGold
+item.flint
+item.porkchopRaw
+item.porkchopCooked
+item.painting
+item.appleGold
+0: item.appleGold
+1: item.appleGold
+2: item.appleGold
+3: item.appleGold
+4: item.appleGold
+5: item.appleGold
+6: item.appleGold
+7: item.appleGold
+8: item.appleGold
+9: item.appleGold
+10: item.appleGold
+11: item.appleGold
+12: item.appleGold
+13: item.appleGold
+14: item.appleGold
+15: item.appleGold
+item.sign
+item.doorWood
+item.bucket
+item.bucketWater
+item.bucketLava
+item.rc.item.cart.basic
+0: item.rc.item.cart.basic
+1: item.rc.item.cart.basic
+2: item.rc.item.cart.basic
+3: item.rc.item.cart.basic
+4: item.rc.item.cart.basic
+5: item.rc.item.cart.basic
+6: item.rc.item.cart.basic
+7: item.rc.item.cart.basic
+8: item.rc.item.cart.basic
+9: item.rc.item.cart.basic
+10: item.rc.item.cart.basic
+11: item.rc.item.cart.basic
+12: item.rc.item.cart.basic
+13: item.rc.item.cart.basic
+14: item.rc.item.cart.basic
+15: item.rc.item.cart.basic
+item.saddle
+item.doorIron
+item.redstone
+item.snowball
+item.boat
+item.leather
+item.milk
+item.brick
+item.clay
+item.reeds
+item.paper
+item.book
+item.slimeball
+item.rc.item.cart.chest
+0: item.rc.item.cart.chest
+1: item.rc.item.cart.chest
+2: item.rc.item.cart.chest
+3: item.rc.item.cart.chest
+4: item.rc.item.cart.chest
+5: item.rc.item.cart.chest
+6: item.rc.item.cart.chest
+7: item.rc.item.cart.chest
+8: item.rc.item.cart.chest
+9: item.rc.item.cart.chest
+10: item.rc.item.cart.chest
+11: item.rc.item.cart.chest
+12: item.rc.item.cart.chest
+13: item.rc.item.cart.chest
+14: item.rc.item.cart.chest
+15: item.rc.item.cart.chest
+item.rc.item.cart.furnace
+0: item.rc.item.cart.furnace
+1: item.rc.item.cart.furnace
+2: item.rc.item.cart.furnace
+3: item.rc.item.cart.furnace
+4: item.rc.item.cart.furnace
+5: item.rc.item.cart.furnace
+6: item.rc.item.cart.furnace
+7: item.rc.item.cart.furnace
+8: item.rc.item.cart.furnace
+9: item.rc.item.cart.furnace
+10: item.rc.item.cart.furnace
+11: item.rc.item.cart.furnace
+12: item.rc.item.cart.furnace
+13: item.rc.item.cart.furnace
+14: item.rc.item.cart.furnace
+15: item.rc.item.cart.furnace
+item.egg
+item.compass
+item.fishingRod
+item.clock
+item.yellowDust
+item.fishRaw
+item.fishCooked
+item.dyePowder
+0: item.dyePowder
+1: item.dyePowder
+2: item.dyePowder
+3: item.dyePowder
+4: item.dyePowder
+5: item.dyePowder
+6: item.dyePowder
+7: item.dyePowder
+8: item.dyePowder
+9: item.dyePowder
+10: item.dyePowder
+11: item.dyePowder
+12: item.dyePowder
+13: item.dyePowder
+14: item.dyePowder
+15: item.dyePowder
+item.bone
+item.sugar
+item.cake
+item.bed
+item.diode
+item.cookie
+item.map
+0: item.map
+1: item.map
+2: item.map
+3: item.map
+4: item.map
+5: item.map
+6: item.map
+7: item.map
+8: item.map
+9: item.map
+10: item.map
+11: item.map
+12: item.map
+13: item.map
+14: item.map
+15: item.map
+item.shears
+item.melon
+item.seeds_pumpkin
+item.seeds_melon
+item.beefRaw
+item.beefCooked
+item.chickenRaw
+item.chickenCooked
+item.rottenFlesh
+item.enderPearl
+item.blazeRod
+item.ghastTear
+item.goldNugget
+item.netherStalkSeeds
+item.potion
+0: item.potion
+1: item.potion
+2: item.potion
+3: item.potion
+4: item.potion
+5: item.potion
+6: item.potion
+7: item.potion
+8: item.potion
+9: item.potion
+10: item.potion
+11: item.potion
+12: item.potion
+13: item.potion
+14: item.potion
+15: item.potion
+item.glassBottle
+item.spiderEye
+item.fermentedSpiderEye
+item.blazePowder
+item.magmaCream
+item.brewingStand
+item.cauldron
+item.eyeOfEnder
+item.speckledMelon
+item.monsterPlacer
+0: item.monsterPlacer
+1: item.monsterPlacer
+2: item.monsterPlacer
+3: item.monsterPlacer
+4: item.monsterPlacer
+5: item.monsterPlacer
+6: item.monsterPlacer
+7: item.monsterPlacer
+8: item.monsterPlacer
+9: item.monsterPlacer
+10: item.monsterPlacer
+11: item.monsterPlacer
+12: item.monsterPlacer
+13: item.monsterPlacer
+14: item.monsterPlacer
+15: item.monsterPlacer
+item.expBottle
+item.fireball
+item.writingBook
+item.writtenBook
+item.emerald
+item.frame
+item.flowerPot
+item.carrots
+item.potato
+item.potatoBaked
+item.potatoPoisonous
+item.emptyMap
+item.carrotGolden
+item.skull
+0: item.skull
+1: item.skull
+2: item.skull
+3: item.skull
+4: item.skull
+5: item.skull
+6: item.skull
+7: item.skull
+8: item.skull
+9: item.skull
+10: item.skull
+11: item.skull
+12: item.skull
+13: item.skull
+14: item.skull
+15: item.skull
+item.carrotOnAStick
+item.netherStar
+item.pumpkinPie
+item.fireworks
+item.fireworksCharge
+item.enchantedBook
+tile.hotspike
+tile.bcrystalline
+tile.rcrystalline
+tile.accelleron
+tile.mud
+tile.crldvane
+0: tile.crldvane
+1: tile.crldvane
+2: tile.crldvane
+3: tile.crldvane
+4: tile.crldvane
+5: tile.crldvane
+6: tile.crldvane
+7: tile.crldvane
+8: tile.crldvane
+9: tile.crldvane
+10: tile.crldvane
+11: tile.crldvane
+12: tile.crldvane
+13: tile.crldvane
+14: tile.crldvane
+15: tile.crldvane
+tile.rupeelamp
+tile.arlemitelamp
+tile.arlemitebricks
+tile.obsidianblock
+tile.realmitebricks
+tile.netherrack
+tile.realmiteblock
+tile.netheritebricks
+tile.eucalyptus
+tile.eucalyptusplanks
+tile.netheriteore
+tile.dyeblock
+0: tile.dyeblock
+1: tile.dyeblock
+2: tile.dyeblock
+3: tile.dyeblock
+4: tile.dyeblock
+5: tile.dyeblock
+6: tile.dyeblock
+7: tile.dyeblock
+8: tile.dyeblock
+9: tile.dyeblock
+10: tile.dyeblock
+11: tile.dyeblock
+12: tile.dyeblock
+13: tile.dyeblock
+14: tile.dyeblock
+15: tile.dyeblock
+tile.slimelight
+tile.empoweredblocks
+0: tile.empoweredblocks
+1: tile.empoweredblocks
+2: tile.empoweredblocks
+3: tile.empoweredblocks
+4: tile.empoweredblocks
+5: tile.empoweredblocks
+6: tile.empoweredblocks
+7: tile.empoweredblocks
+8: tile.empoweredblocks
+9: tile.empoweredblocks
+10: tile.empoweredblocks
+11: tile.empoweredblocks
+12: tile.empoweredblocks
+13: tile.empoweredblocks
+14: tile.empoweredblocks
+15: tile.empoweredblocks
+tile.coloredbricks
+0: tile.coloredbricks
+1: tile.coloredbricks
+2: tile.coloredbricks
+3: tile.coloredbricks
+4: tile.coloredbricks
+5: tile.coloredbricks
+6: tile.coloredbricks
+7: tile.coloredbricks
+8: tile.coloredbricks
+9: tile.coloredbricks
+10: tile.coloredbricks
+11: tile.coloredbricks
+tile.rainbowwool
+tile.steel
+0: tile.steel
+1: tile.steel
+2: tile.steel
+3: tile.steel
+4: tile.steel
+5: tile.steel
+6: tile.steel
+7: tile.steel
+8: tile.steel
+9: tile.steel
+10: tile.steel
+11: tile.steel
+12: tile.steel
+13: tile.steel
+14: tile.steel
+15: tile.steel
+tile.accelleraunch
+tile.bluetorch
+tile.lavalamp
+tile.enderlamp
+tile.aqualamp
+tile.milkstone
+tile.aquatonicbricks
+tile.krakenlamp
+tile.waterstone
+tile.lavabricks
+tile.goldbricks
+tile.lapisbricks
+tile.redstonebricks
+tile.creeperpumpkin
+tile.enderpumpkin
+tile.elevatorRail
+tile.rc.signal
+0: tile.rc.signal
+1: tile.rc.signal
+2: tile.rc.signal
+3: tile.rc.signal
+4: tile.rc.signal
+5: tile.rc.signal
+6: tile.rc.signal
+7: tile.rc.signal
+8: tile.rc.signal
+9: tile.rc.signal
+10: tile.rc.signal
+11: tile.rc.signal
+12: tile.rc.signal
+13: tile.rc.signal
+14: tile.rc.signal
+15: tile.rc.signal
+tile.rcCube
+0: tile.rcCube
+1: tile.rcCube
+2: tile.rcCube
+3: tile.rcCube
+4: tile.rcCube
+5: tile.rcCube
+6: tile.rcCube
+7: tile.rcCube
+8: tile.rcCube
+9: tile.rcCube
+10: tile.rcCube
+11: tile.rcCube
+12: tile.rcCube
+13: tile.rcCube
+14: tile.rcCube
+15: tile.rcCube
+tile.rcOres
+0: tile.rcOres
+1: tile.rcOres
+tile.rcPostBlock
+0: tile.rcPostBlock
+1: tile.rcPostBlock
+2: tile.rcPostBlock
+3: tile.rcPostBlock
+4: tile.rcPostBlock
+5: tile.rcPostBlock
+6: tile.rcPostBlock
+7: tile.rcPostBlock
+8: tile.rcPostBlock
+9: tile.rcPostBlock
+10: tile.rcPostBlock
+11: tile.rcPostBlock
+12: tile.rcPostBlock
+13: tile.rcPostBlock
+14: tile.rcPostBlock
+15: tile.rcPostBlock
+tile.rcMetalPostBlock
+0: tile.rcMetalPostBlock
+1: tile.rcMetalPostBlock
+2: tile.rcMetalPostBlock
+3: tile.rcMetalPostBlock
+4: tile.rcMetalPostBlock
+5: tile.rcMetalPostBlock
+6: tile.rcMetalPostBlock
+7: tile.rcMetalPostBlock
+8: tile.rcMetalPostBlock
+9: tile.rcMetalPostBlock
+10: tile.rcMetalPostBlock
+11: tile.rcMetalPostBlock
+12: tile.rcMetalPostBlock
+13: tile.rcMetalPostBlock
+14: tile.rcMetalPostBlock
+15: tile.rcMetalPostBlock
+tile.rc.wall
+0: tile.rc.wall
+1: tile.rc.wall
+2: tile.rc.wall
+3: tile.rc.wall
+4: tile.rc.wall
+5: tile.rc.wall
+6: tile.rc.wall
+7: tile.rc.wall
+8: tile.rc.wall
+9: tile.rc.wall
+10: tile.rc.wall
+11: tile.rc.wall
+12: tile.rc.wall
+13: tile.rc.wall
+14: tile.rc.wall
+15: tile.rc.wall
+tile.rc.block.worldlogic
+tile.ironbricks
+tile.darkbricks
+tile.blazpumpkin
+tile.skelypumpkin
+tile.illumilingred
+tile.darkstairs
+tile.ironstairs
+tile.goldstairs
+tile.lapisstairs
+tile.redstonestairs
+tile.arlemitestairs
+tile.milkstonestairs
+tile.stonefence
+tile.woodfence
+tile.blackred
+tile.blackblue
+tile.illumilingblue
+tile.milkstonebricks
+tile.milkstonebricksstairs
+tile.redsand
+tile.redsandstone
+tile.redsandstone1
+tile.redsandstone2
+tile.sandstairs
+tile.redsandstairs
+tile.minibricks
+0: tile.minibricks
+1: tile.minibricks
+2: tile.minibricks
+3: tile.minibricks
+4: tile.minibricks
+5: tile.minibricks
+6: tile.minibricks
+7: tile.minibricks
+8: tile.minibricks
+9: tile.minibricks
+10: tile.minibricks
+11: tile.minibricks
+12: tile.minibricks
+13: tile.minibricks
+14: tile.minibricks
+15: tile.minibricks
+tile.spiderpumpkin
+tile.invisblestone
+tile.lightbridge
+tile.tar
+tile.tar
+tile.drakenlamp
+tile.blaziclamp
+tile.milklamp
+tile.greenbricks
+tile.purplebricks
+tile.pinkbricks
+tile.greenbrickstairs
+tile.purplebricksstairs
+tile.iceblock
+0: tile.iceblock
+1: tile.iceblock
+2: tile.iceblock
+3: tile.iceblock
+4: tile.iceblock
+5: tile.iceblock
+6: tile.iceblock
+7: tile.iceblock
+8: tile.iceblock
+9: tile.iceblock
+10: tile.iceblock
+11: tile.iceblock
+tile.invplate
+tile.BlockCargoManager
+tile.BlockCartAssembler
+tile.BlockJunction
+tile.glowingstairs
+tile.slimelighton
+tile.empoweredblock
+tile.lightstone
+tile.redstone
+tile.redstone
+tile.darkplate
+tile.spikes
+tile.mushroomplant
+tile.tomamtoplant
+tile.elevantium
+tile.pinkglowbone
+tile.pinkglowbone
+tile.purpleglowbone
+tile.purpleglowbone
+tile.moonbulbbase
+tile.moonbulb
+tile.greentorch
+tile.azuritevines
+tile.enderbricks
+tile.azuriteportal
+tile.energyportal
+tile.mythrilportal
+tile.denseportal
+tile.zombiepumpkin
+tile.icemanpumpkin
+tile.enderwatcherpumpkin
+tile.cyclopspumpkin
+tile.ghastpumpkin
+tile.hellspiderpumpkin
+tile.junglespiderpumpkin
+tile.frostpumpkin
+tile.bluefire
+tile.serenityblock
+tile.azuriteblock
+tile.energyblock
+tile.mythrilblock
+tile.denseblock
+tile.azureiteore
+tile.energyore
+tile.mythilore
+tile.denseore
+tile.serenityore
+tile.serenityleaves
+tile.energyleaves
+tile.azuriteleaves
+tile.mythilleaves
+tile.denseleaves
+tile.twilightportal
+tile.rupeeblock
+tile.arlemiteblock
+tile.netheriteblock
+tile.realmitelamp
+tile.lapizlamp
+tile.redstoneorelamp
+tile.diamondblock
+tile.goldenlamp
+tile.netheritelamp
+tile.diamondlamp
+tile.glasswhite
+tile.glassorange
+tile.glasslightpurple
+tile.glasslightblue
+tile.glassyellow
+tile.glasslimegreen
+tile.glasspink
+tile.glassblack
+tile.glassgray
+tile.glassteal
+tile.glassblue
+tile.glasspurple
+tile.glassbrown
+tile.glassdirtygreen
+tile.glassred
+tile.glassblack
+tile.panewhite
+tile.paneorange
+tile.panelightpurple
+tile.panelightblue
+tile.paneyellow
+tile.panelimegreen
+tile.panepink
+tile.paneblack
+tile.panegray
+tile.paneteal
+tile.paneblue
+tile.panepurple
+tile.panebrown
+tile.panedirtygreen
+tile.panered
+tile.paneblack
+tile.divinerock
+tile.orangecrystalline
+tile.greencrystalline
+tile.purplecrystalline
+tile.yellowcrystalline
+tile.serenitychest
+tile.energyrails
+tile.yellowwood
+tile.CompactSolar
+0: tile.CompactSolar
+1: tile.CompactSolar
+2: tile.CompactSolar
+tile.purplewood
+tile.bluewood
+tile.greenwood
+tile.whitewood
+tile.skulltorch
+tile.draviteLamp
+tile.dungeonLight
+tile.arcanitetubes
+tile.arcanitemetal
+tile.arcaniumsoulsludge
+tile.soulstone
+tile.dungeonbricks
+tile.heattraps
+tile.extractinator
+tile.dramixalter
+tile.skeletonchest
+tile.pheonixaltar
+tile.arcanaore
+tile.arcanapower
+tile.doorWood
+tile.doorWood
+tile.doorWood
+tile.doorWood
+tile.ancientbricks
+tile.ancienttile
+tile.corruptalter
+tile.fireStock
+tile.pinfly
+tile.hitchak
+tile.veilo
+tile.lamona
+tile.aquamarine
+tile.marsine
+tile.arcaniteGrass
+tile.acaniteDirt
+tile.stainedGlass
+tile.stainedGlass1
+tile.stainedGlass2
+tile.stainedGlass3
+tile.stainedGlass4
+tile.stainedGlass5
+tile.stainedGlass6
+tile.stainedGlass7
+tile.candyCaneRed
+tile.candyCaneGreen
+tile.candyCaneGreen
+tile.candyCaneYellow
+tile.canyCanePurple
+tile.moltenFurnace
+tile.greenlightFurnace
+tile.oceanfireFurnace
+tile.moonlightFurnace
+tile.whitefireFurnace
+tile.moltenFurnaceOn
+tile.greenlightFurnaceOn
+tile.oceanfireFurnaceOn
+tile.moonlightFurnaceOn
+tile.whitefireFurnaceOn
+tile.demonFurnace
+tile.ancientstone
+tile.iceikaleaves
+tile.iceikastonebricks
+tile.iceikalog
+tile.iceikamossycobble
+tile.iceikaspawnercage
+tile.iceikabookself
+tile.iceikasnowybricks
+tile.iceikadoor
+tile.iceikaglass
+tile.iceikafurnace
+tile.iceikachest
+tile.workshoplamp
+tile.workshopcarpet
+tile.coalstone
+tile.lightleaves
+tile.pinfly
+tile.fireStock
+tile.starBridge
+tile.starBridgeON
+tile.heattrapson
+tile.arcaniterails
+tile.arcanaportal
+tile.arcanaportal
+tile.iceikaportal
+tile.giftbox
+tile.redlights
+tile.greenlights
+tile.bluelights
+tile.yellowlights
+tile.pinklights
+tile.arcaniumtorch
+tile.iceikaspawnercage2
+tile.essencerefineridle
+tile.inscriptiontable
+tile.arcaneEmpowermentTable
+tile.magetorchdim
+tile.magetorchaverage
+tile.magetorchbright
+tile.tile.stoneillusion
+tile.tile.stonebrickillusion
+tile.tile.stonebricksmoothillusion
+tile.tile.sandStoneillusion
+tile.tile.bookshelfillusion
+null
+null
+tile.essenceconduit
+tile.essenceextractor
+tile.arcanegenerator
+tile.blockcaster
+tile.magicfabricator
+tile.crystalpillar
+tile.archmagepodium
+tile.calefactor
+tile.blockkeystonerecepticle
+tile.keystoneportal
+tile.nullmagicblock
+tile.blockastralbarrier
+tile.darknexus
+tile.blockthorns
+tile.blockseerstone
+tile.vinteumore
+tile.blueorchid
+tile.desertnova
+tile.keystonechest
+tile.purevinteumcrystal
+tile.crystalstand
+tile.archivebookshelf
+tile.magicmirror
+tile.customspellrune
+item.wateressence
+item.magmaessence
+item.iceessence
+tile.iceikarealchest
+null
+null
+null
+null
+null
+null
+tile.AEStatue
+tile.AyeracoStatue
+tile.DAZStatue
+tile.DensosStatue
+tile.KOSStatue
+tile.ReyvorStatue
+tile.SFStatue
+tile.TDStatue
+tile.VamacheronStatue
+tile.WatcherStatue
+tile.ParasectaStatue
+tile.DramixStatue
+tile.arcanaSpawner
+tile.wirelessredstone.receiver
+tile.wirelessredstone.transmitter
+tile.IronChest
+0: tile.IronChest
+1: tile.IronChest
+2: tile.IronChest
+3: tile.IronChest
+4: tile.IronChest
+5: tile.IronChest
+6: tile.IronChest
+7: tile.IronChest
+null
+null
+tile.myst.bookstand
+tile.myst.crystal
+tile.myst.lectern
+tile.myst.linkmodder
+tile.myst.linkportal
+tile.myst.receptacle
+tile.myst.unstable
+0: tile.myst.unstable
+1: tile.myst.unstable
+2: tile.myst.unstable
+3: tile.myst.unstable
+4: tile.myst.unstable
+5: tile.myst.unstable
+6: tile.myst.unstable
+7: tile.myst.unstable
+8: tile.myst.unstable
+9: tile.myst.unstable
+10: tile.myst.unstable
+11: tile.myst.unstable
+12: tile.myst.unstable
+13: tile.myst.unstable
+14: tile.myst.unstable
+15: tile.myst.unstable
+tile.myst.writingDesk
+tile.myst.bookbinder
+tile.candle
+0: tile.candle
+1: tile.candle
+2: tile.candle
+3: tile.candle
+4: tile.candle
+5: tile.candle
+6: tile.candle
+7: tile.candle
+8: tile.candle
+9: tile.candle
+10: tile.candle
+11: tile.candle
+12: tile.candle
+13: tile.candle
+14: tile.candle
+15: tile.candle
+tile.stump
+0: tile.stump
+1: tile.stump
+2: tile.stump
+3: tile.stump
+4: tile.stump
+5: tile.stump
+6: tile.stump
+7: tile.stump
+8: tile.stump
+9: tile.stump
+10: tile.stump
+11: tile.stump
+12: tile.stump
+13: tile.stump
+14: tile.stump
+15: tile.stump
+tile.for.planks
+0: tile.for.planks
+1: tile.for.planks
+2: tile.for.planks
+3: tile.for.planks
+4: tile.for.planks
+5: tile.for.planks
+6: tile.for.planks
+7: tile.for.planks
+8: tile.for.planks
+9: tile.for.planks
+10: tile.for.planks
+11: tile.for.planks
+12: tile.for.planks
+13: tile.for.planks
+14: tile.for.planks
+15: tile.for.planks
+tile.alveary
+0: tile.alveary
+1: tile.alveary
+2: tile.alveary
+3: tile.alveary
+4: tile.alveary
+5: tile.alveary
+6: tile.alveary
+7: tile.alveary
+8: tile.alveary
+9: tile.alveary
+10: tile.alveary
+11: tile.alveary
+12: tile.alveary
+13: tile.alveary
+14: tile.alveary
+15: tile.alveary
+tile.swarmer
+0: tile.swarmer
+1: tile.swarmer
+2: tile.swarmer
+3: tile.swarmer
+4: tile.swarmer
+5: tile.swarmer
+6: tile.swarmer
+7: tile.swarmer
+8: tile.swarmer
+9: tile.swarmer
+10: tile.swarmer
+11: tile.swarmer
+12: tile.swarmer
+13: tile.swarmer
+14: tile.swarmer
+15: tile.swarmer
+tile.alvearyHeater
+0: tile.alvearyHeater
+1: tile.alvearyHeater
+2: tile.alvearyHeater
+3: tile.alvearyHeater
+4: tile.alvearyHeater
+5: tile.alvearyHeater
+6: tile.alvearyHeater
+7: tile.alvearyHeater
+8: tile.alvearyHeater
+9: tile.alvearyHeater
+10: tile.alvearyHeater
+11: tile.alvearyHeater
+12: tile.alvearyHeater
+13: tile.alvearyHeater
+14: tile.alvearyHeater
+15: tile.alvearyHeater
+tile.alvearyFan
+0: tile.alvearyFan
+1: tile.alvearyFan
+2: tile.alvearyFan
+3: tile.alvearyFan
+4: tile.alvearyFan
+5: tile.alvearyFan
+6: tile.alvearyFan
+7: tile.alvearyFan
+8: tile.alvearyFan
+9: tile.alvearyFan
+10: tile.alvearyFan
+11: tile.alvearyFan
+12: tile.alvearyFan
+13: tile.alvearyFan
+14: tile.alvearyFan
+15: tile.alvearyFan
+tile.for.slabs1
+0: tile.for.slabs1
+1: tile.for.slabs1
+2: tile.for.slabs1
+3: tile.for.slabs1
+4: tile.for.slabs1
+5: tile.for.slabs1
+6: tile.for.slabs1
+7: tile.for.slabs1
+8: tile.for.slabs1
+9: tile.for.slabs1
+10: tile.for.slabs1
+11: tile.for.slabs1
+12: tile.for.slabs1
+13: tile.for.slabs1
+14: tile.for.slabs1
+15: tile.for.slabs1
+tile.for.slabs2
+0: tile.for.slabs2
+1: tile.for.slabs2
+2: tile.for.slabs2
+3: tile.for.slabs2
+4: tile.for.slabs2
+5: tile.for.slabs2
+6: tile.for.slabs2
+7: tile.for.slabs2
+8: tile.for.slabs2
+9: tile.for.slabs2
+10: tile.for.slabs2
+11: tile.for.slabs2
+12: tile.for.slabs2
+13: tile.for.slabs2
+14: tile.for.slabs2
+15: tile.for.slabs2
+tile.for.log1
+0: tile.for.log1
+1: tile.for.log1
+2: tile.for.log1
+3: tile.for.log1
+4: tile.for.log1
+5: tile.for.log1
+6: tile.for.log1
+7: tile.for.log1
+8: tile.for.log1
+9: tile.for.log1
+10: tile.for.log1
+11: tile.for.log1
+12: tile.for.log1
+13: tile.for.log1
+14: tile.for.log1
+15: tile.for.log1
+tile.for.log2
+0: tile.for.log2
+1: tile.for.log2
+2: tile.for.log2
+3: tile.for.log2
+4: tile.for.log2
+5: tile.for.log2
+6: tile.for.log2
+7: tile.for.log2
+8: tile.for.log2
+9: tile.for.log2
+10: tile.for.log2
+11: tile.for.log2
+12: tile.for.log2
+13: tile.for.log2
+14: tile.for.log2
+15: tile.for.log2
+tile.for.log3
+0: tile.for.log3
+1: tile.for.log3
+2: tile.for.log3
+3: tile.for.log3
+4: tile.for.log3
+5: tile.for.log3
+6: tile.for.log3
+7: tile.for.log3
+8: tile.for.log3
+9: tile.for.log3
+10: tile.for.log3
+11: tile.for.log3
+12: tile.for.log3
+13: tile.for.log3
+14: tile.for.log3
+15: tile.for.log3
+tile.for.log4
+0: tile.for.log4
+1: tile.for.log4
+2: tile.for.log4
+3: tile.for.log4
+4: tile.for.log4
+5: tile.for.log4
+6: tile.for.log4
+7: tile.for.log4
+8: tile.for.log4
+9: tile.for.log4
+10: tile.for.log4
+11: tile.for.log4
+12: tile.for.log4
+13: tile.for.log4
+14: tile.for.log4
+15: tile.for.log4
+tile.saplingGE
+0: tile.saplingGE
+1: tile.saplingGE
+2: tile.saplingGE
+3: tile.saplingGE
+4: tile.saplingGE
+5: tile.saplingGE
+6: tile.saplingGE
+7: tile.saplingGE
+8: tile.saplingGE
+9: tile.saplingGE
+10: tile.saplingGE
+11: tile.saplingGE
+12: tile.saplingGE
+13: tile.saplingGE
+14: tile.saplingGE
+15: tile.saplingGE
+tile.leaves
+0: tile.leaves
+1: tile.leaves
+2: tile.leaves
+3: tile.leaves
+4: tile.leaves
+5: tile.leaves
+6: tile.leaves
+7: tile.leaves
+8: tile.leaves
+9: tile.leaves
+10: tile.leaves
+11: tile.leaves
+12: tile.leaves
+13: tile.leaves
+14: tile.leaves
+15: tile.leaves
+tile.for.fences
+0: tile.for.fences
+1: tile.for.fences
+2: tile.for.fences
+3: tile.for.fences
+4: tile.for.fences
+5: tile.for.fences
+6: tile.for.fences
+7: tile.for.fences
+8: tile.for.fences
+9: tile.for.fences
+10: tile.for.fences
+11: tile.for.fences
+12: tile.for.fences
+13: tile.for.fences
+14: tile.for.fences
+15: tile.for.fences
+tile.ffarm
+0: tile.ffarm
+1: tile.ffarm
+2: tile.ffarm
+3: tile.ffarm
+4: tile.ffarm
+5: tile.ffarm
+6: tile.ffarm
+7: tile.ffarm
+8: tile.ffarm
+9: tile.ffarm
+10: tile.ffarm
+11: tile.ffarm
+12: tile.ffarm
+13: tile.ffarm
+14: tile.ffarm
+15: tile.ffarm
+tile.for.stairs
+0: tile.for.stairs
+1: tile.for.stairs
+2: tile.for.stairs
+3: tile.for.stairs
+4: tile.for.stairs
+5: tile.for.stairs
+6: tile.for.stairs
+7: tile.for.stairs
+8: tile.for.stairs
+9: tile.for.stairs
+10: tile.for.stairs
+11: tile.for.stairs
+12: tile.for.stairs
+13: tile.for.stairs
+14: tile.for.stairs
+15: tile.for.stairs
+tile.soil
+0: tile.soil
+1: tile.soil
+2: tile.soil
+3: tile.soil
+4: tile.soil
+5: tile.soil
+6: tile.soil
+7: tile.soil
+8: tile.soil
+9: tile.soil
+10: tile.soil
+11: tile.soil
+12: tile.soil
+13: tile.soil
+14: tile.soil
+15: tile.soil
+tile.apatite
+0: tile.apatite
+1: tile.apatite
+2: tile.apatite
+3: tile.apatite
+4: tile.apatite
+5: tile.apatite
+6: tile.apatite
+7: tile.apatite
+8: tile.apatite
+9: tile.apatite
+10: tile.apatite
+11: tile.apatite
+12: tile.apatite
+13: tile.apatite
+14: tile.apatite
+15: tile.apatite
+tile.oreCopper
+0: tile.oreCopper
+1: tile.oreCopper
+2: tile.oreCopper
+3: tile.oreCopper
+4: tile.oreCopper
+5: tile.oreCopper
+6: tile.oreCopper
+7: tile.oreCopper
+8: tile.oreCopper
+9: tile.oreCopper
+10: tile.oreCopper
+11: tile.oreCopper
+12: tile.oreCopper
+13: tile.oreCopper
+14: tile.oreCopper
+15: tile.oreCopper
+tile.planter
+0: tile.planter
+1: tile.planter
+2: tile.planter
+3: tile.planter
+4: tile.planter
+5: tile.planter
+6: tile.planter
+7: tile.planter
+8: tile.planter
+9: tile.planter
+10: tile.planter
+11: tile.planter
+12: tile.planter
+13: tile.planter
+14: tile.planter
+15: tile.planter
+tile.harvester
+0: tile.harvester
+1: tile.harvester
+2: tile.harvester
+3: tile.harvester
+4: tile.harvester
+5: tile.harvester
+6: tile.harvester
+7: tile.harvester
+8: tile.harvester
+9: tile.harvester
+10: tile.harvester
+11: tile.harvester
+12: tile.harvester
+13: tile.harvester
+14: tile.harvester
+15: tile.harvester
+tile.engine
+0: tile.engine
+1: tile.engine
+2: tile.engine
+3: tile.engine
+4: tile.engine
+5: tile.engine
+6: tile.engine
+7: tile.engine
+8: tile.engine
+9: tile.engine
+10: tile.engine
+11: tile.engine
+12: tile.engine
+13: tile.engine
+14: tile.engine
+15: tile.engine
+tile.machine
+0: tile.machine
+1: tile.machine
+2: tile.machine
+3: tile.machine
+4: tile.machine
+5: tile.machine
+6: tile.machine
+7: tile.machine
+8: tile.machine
+9: tile.machine
+10: tile.machine
+11: tile.machine
+12: tile.machine
+13: tile.machine
+14: tile.machine
+15: tile.machine
+tile.mill
+0: tile.mill
+1: tile.mill
+2: tile.mill
+3: tile.mill
+4: tile.mill
+5: tile.mill
+6: tile.mill
+7: tile.mill
+8: tile.mill
+9: tile.mill
+10: tile.mill
+11: tile.mill
+12: tile.mill
+13: tile.mill
+14: tile.mill
+15: tile.mill
+tile.cage
+tile.soulforge
+tile.soultower
+tile.miningWellBlock
+tile.plainPipeBlock
+tile.autoWorkbenchBlock
+tile.machineBlock
+tile.markerBlock
+tile.fillerBlock
+tile.builderBlock
+tile.architectBlock
+tile.frameBlock
+tile.engineBlock
+0: tile.engineBlock
+1: tile.engineBlock
+2: tile.engineBlock
+3: tile.engineBlock
+4: tile.engineBlock
+5: tile.engineBlock
+6: tile.engineBlock
+7: tile.engineBlock
+8: tile.engineBlock
+9: tile.engineBlock
+10: tile.engineBlock
+11: tile.engineBlock
+12: tile.engineBlock
+13: tile.engineBlock
+14: tile.engineBlock
+15: tile.engineBlock
+tile.pumpBlock
+tile.tankBlock
+null
+tile.refineryBlock
+tile.libraryBlock
+tile.laserBlock
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+10: null
+11: null
+12: null
+13: null
+14: null
+15: null
+tile.pathMarkerBlock
+tile.blockHopper
+tile.oilMoving
+tile.oilStill
+tile.eternalSpring
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+null
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+10: null
+11: null
+12: null
+13: null
+14: null
+15: null
+null
+0: null
+1: null
+2: null
+null
+0: null
+1: null
+null
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+10: null
+11: null
+12: null
+13: null
+14: null
+15: null
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+10: null
+11: null
+12: null
+13: null
+14: null
+15: null
+tile.TFFirefly
+tile.TFPortal
+tile.TFLog
+0: tile.TFLog
+1: tile.TFLog
+2: tile.TFLog
+3: tile.TFLog
+4: tile.TFLog
+5: tile.TFLog
+6: tile.TFLog
+7: tile.TFLog
+8: tile.TFLog
+9: tile.TFLog
+10: tile.TFLog
+11: tile.TFLog
+12: tile.TFLog
+13: tile.TFLog
+14: tile.TFLog
+15: tile.TFLog
+tile.TFLeaves
+0: tile.TFLeaves
+1: tile.TFLeaves
+2: tile.TFLeaves
+3: tile.TFLeaves
+4: tile.TFLeaves
+5: tile.TFLeaves
+6: tile.TFLeaves
+7: tile.TFLeaves
+8: tile.TFLeaves
+9: tile.TFLeaves
+10: tile.TFLeaves
+11: tile.TFLeaves
+12: tile.TFLeaves
+13: tile.TFLeaves
+14: tile.TFLeaves
+15: tile.TFLeaves
+tile.TFMazestone
+0: tile.TFMazestone
+1: tile.TFMazestone
+2: tile.TFMazestone
+3: tile.TFMazestone
+4: tile.TFMazestone
+5: tile.TFMazestone
+6: tile.TFMazestone
+7: tile.TFMazestone
+8: tile.TFMazestone
+9: tile.TFMazestone
+10: tile.TFMazestone
+11: tile.TFMazestone
+12: tile.TFMazestone
+13: tile.TFMazestone
+14: tile.TFMazestone
+15: tile.TFMazestone
+tile.TFHedge
+0: tile.TFHedge
+1: tile.TFHedge
+2: tile.TFHedge
+3: tile.TFHedge
+4: tile.TFHedge
+5: tile.TFHedge
+6: tile.TFHedge
+7: tile.TFHedge
+8: tile.TFHedge
+9: tile.TFHedge
+10: tile.TFHedge
+11: tile.TFHedge
+12: tile.TFHedge
+13: tile.TFHedge
+14: tile.TFHedge
+15: tile.TFHedge
+tile.TFBossSpawner
+0: tile.TFBossSpawner
+1: tile.TFBossSpawner
+2: tile.TFBossSpawner
+3: tile.TFBossSpawner
+4: tile.TFBossSpawner
+5: tile.TFBossSpawner
+6: tile.TFBossSpawner
+7: tile.TFBossSpawner
+8: tile.TFBossSpawner
+9: tile.TFBossSpawner
+10: tile.TFBossSpawner
+11: tile.TFBossSpawner
+12: tile.TFBossSpawner
+13: tile.TFBossSpawner
+14: tile.TFBossSpawner
+15: tile.TFBossSpawner
+tile.TFFireflyJar
+tile.TFPlant
+0: tile.TFPlant
+1: tile.TFPlant
+2: tile.TFPlant
+3: tile.TFPlant
+4: tile.TFPlant
+5: tile.TFPlant
+6: tile.TFPlant
+7: tile.TFPlant
+8: tile.TFPlant
+9: tile.TFPlant
+10: tile.TFPlant
+11: tile.TFPlant
+12: tile.TFPlant
+13: tile.TFPlant
+14: tile.TFPlant
+15: tile.TFPlant
+tile.TFRoots
+0: tile.TFRoots
+1: tile.TFRoots
+2: tile.TFRoots
+3: tile.TFRoots
+4: tile.TFRoots
+5: tile.TFRoots
+6: tile.TFRoots
+7: tile.TFRoots
+8: tile.TFRoots
+9: tile.TFRoots
+10: tile.TFRoots
+11: tile.TFRoots
+12: tile.TFRoots
+13: tile.TFRoots
+14: tile.TFRoots
+15: tile.TFRoots
+tile.TFCicada
+tile.TFUncraftingTable
+tile.TFFireJet
+0: tile.TFFireJet
+1: tile.TFFireJet
+2: tile.TFFireJet
+3: tile.TFFireJet
+4: tile.TFFireJet
+5: tile.TFFireJet
+6: tile.TFFireJet
+7: tile.TFFireJet
+8: tile.TFFireJet
+9: tile.TFFireJet
+10: tile.TFFireJet
+11: tile.TFFireJet
+12: tile.TFFireJet
+13: tile.TFFireJet
+14: tile.TFFireJet
+15: tile.TFFireJet
+tile.TFNagastone
+0: tile.TFNagastone
+1: tile.TFNagastone
+2: tile.TFNagastone
+3: tile.TFNagastone
+4: tile.TFNagastone
+5: tile.TFNagastone
+6: tile.TFNagastone
+7: tile.TFNagastone
+8: tile.TFNagastone
+9: tile.TFNagastone
+10: tile.TFNagastone
+11: tile.TFNagastone
+12: tile.TFNagastone
+13: tile.TFNagastone
+14: tile.TFNagastone
+15: tile.TFNagastone
+tile.TFSapling
+0: tile.TFSapling
+1: tile.TFSapling
+2: tile.TFSapling
+3: tile.TFSapling
+4: tile.TFSapling
+5: tile.TFSapling
+6: tile.TFSapling
+7: tile.TFSapling
+8: tile.TFSapling
+9: tile.TFSapling
+10: tile.TFSapling
+11: tile.TFSapling
+12: tile.TFSapling
+13: tile.TFSapling
+14: tile.TFSapling
+15: tile.TFSapling
+tile.TFMagicLog
+0: tile.TFMagicLog
+1: tile.TFMagicLog
+2: tile.TFMagicLog
+3: tile.TFMagicLog
+4: tile.TFMagicLog
+5: tile.TFMagicLog
+6: tile.TFMagicLog
+7: tile.TFMagicLog
+8: tile.TFMagicLog
+9: tile.TFMagicLog
+10: tile.TFMagicLog
+11: tile.TFMagicLog
+12: tile.TFMagicLog
+13: tile.TFMagicLog
+14: tile.TFMagicLog
+15: tile.TFMagicLog
+tile.TFMagicLeaves
+0: tile.TFMagicLeaves
+1: tile.TFMagicLeaves
+2: tile.TFMagicLeaves
+3: tile.TFMagicLeaves
+4: tile.TFMagicLeaves
+5: tile.TFMagicLeaves
+6: tile.TFMagicLeaves
+7: tile.TFMagicLeaves
+8: tile.TFMagicLeaves
+9: tile.TFMagicLeaves
+10: tile.TFMagicLeaves
+11: tile.TFMagicLeaves
+12: tile.TFMagicLeaves
+13: tile.TFMagicLeaves
+14: tile.TFMagicLeaves
+15: tile.TFMagicLeaves
+tile.TFMoonworm
+tile.TFMagicLogSpecial
+0: tile.TFMagicLogSpecial
+1: tile.TFMagicLogSpecial
+2: tile.TFMagicLogSpecial
+3: tile.TFMagicLogSpecial
+4: tile.TFMagicLogSpecial
+5: tile.TFMagicLogSpecial
+6: tile.TFMagicLogSpecial
+7: tile.TFMagicLogSpecial
+8: tile.TFMagicLogSpecial
+9: tile.TFMagicLogSpecial
+10: tile.TFMagicLogSpecial
+11: tile.TFMagicLogSpecial
+12: tile.TFMagicLogSpecial
+13: tile.TFMagicLogSpecial
+14: tile.TFMagicLogSpecial
+15: tile.TFMagicLogSpecial
+tile.TFTowerStone
+0: tile.TFTowerStone
+1: tile.TFTowerStone
+2: tile.TFTowerStone
+3: tile.TFTowerStone
+4: tile.TFTowerStone
+5: tile.TFTowerStone
+6: tile.TFTowerStone
+7: tile.TFTowerStone
+8: tile.TFTowerStone
+9: tile.TFTowerStone
+10: tile.TFTowerStone
+11: tile.TFTowerStone
+12: tile.TFTowerStone
+13: tile.TFTowerStone
+14: tile.TFTowerStone
+15: tile.TFTowerStone
+tile.TFTowerDevice
+0: tile.TFTowerDevice
+1: tile.TFTowerDevice
+2: tile.TFTowerDevice
+3: tile.TFTowerDevice
+4: tile.TFTowerDevice
+5: tile.TFTowerDevice
+6: tile.TFTowerDevice
+7: tile.TFTowerDevice
+8: tile.TFTowerDevice
+9: tile.TFTowerDevice
+10: tile.TFTowerDevice
+11: tile.TFTowerDevice
+12: tile.TFTowerDevice
+13: tile.TFTowerDevice
+14: tile.TFTowerDevice
+15: tile.TFTowerDevice
+tile.TFTowerTranslucent
+0: tile.TFTowerTranslucent
+1: tile.TFTowerTranslucent
+2: tile.TFTowerTranslucent
+3: tile.TFTowerTranslucent
+4: tile.TFTowerTranslucent
+5: tile.TFTowerTranslucent
+6: tile.TFTowerTranslucent
+7: tile.TFTowerTranslucent
+8: tile.TFTowerTranslucent
+9: tile.TFTowerTranslucent
+10: tile.TFTowerTranslucent
+11: tile.TFTowerTranslucent
+12: tile.TFTowerTranslucent
+13: tile.TFTowerTranslucent
+14: tile.TFTowerTranslucent
+15: tile.TFTowerTranslucent
+tile.TFTrophy
+0: tile.TFTrophy
+1: tile.TFTrophy
+2: tile.TFTrophy
+3: tile.TFTrophy
+4: tile.TFTrophy
+5: tile.TFTrophy
+6: tile.TFTrophy
+7: tile.TFTrophy
+8: tile.TFTrophy
+9: tile.TFTrophy
+10: tile.TFTrophy
+11: tile.TFTrophy
+12: tile.TFTrophy
+13: tile.TFTrophy
+14: tile.TFTrophy
+15: tile.TFTrophy
+item.record
+item.record
+item.record
+item.record
+item.record
+item.record
+item.record
+item.record
+item.record
+item.record
+item.record
+item.record
+tile.blockFluxGoo
+0: tile.blockFluxGoo
+1: tile.blockFluxGoo
+2: tile.blockFluxGoo
+3: tile.blockFluxGoo
+4: tile.blockFluxGoo
+5: tile.blockFluxGoo
+6: tile.blockFluxGoo
+7: tile.blockFluxGoo
+8: tile.blockFluxGoo
+9: tile.blockFluxGoo
+10: tile.blockFluxGoo
+11: tile.blockFluxGoo
+12: tile.blockFluxGoo
+13: tile.blockFluxGoo
+14: tile.blockFluxGoo
+15: tile.blockFluxGoo
+tile.blockHole
+tile.blockCustomOre
+0: tile.blockCustomOre
+1: tile.blockCustomOre
+2: tile.blockCustomOre
+3: tile.blockCustomOre
+4: tile.blockCustomOre
+5: tile.blockCustomOre
+6: tile.blockCustomOre
+7: tile.blockCustomOre
+8: tile.blockCustomOre
+9: tile.blockCustomOre
+10: tile.blockCustomOre
+11: tile.blockCustomOre
+12: tile.blockCustomOre
+13: tile.blockCustomOre
+14: tile.blockCustomOre
+15: tile.blockCustomOre
+tile.blockCustomPlant
+0: tile.blockCustomPlant
+1: tile.blockCustomPlant
+2: tile.blockCustomPlant
+3: tile.blockCustomPlant
+4: tile.blockCustomPlant
+5: tile.blockCustomPlant
+6: tile.blockCustomPlant
+7: tile.blockCustomPlant
+8: tile.blockCustomPlant
+9: tile.blockCustomPlant
+10: tile.blockCustomPlant
+11: tile.blockCustomPlant
+12: tile.blockCustomPlant
+13: tile.blockCustomPlant
+14: tile.blockCustomPlant
+15: tile.blockCustomPlant
+tile.blockMagicalLog
+0: tile.blockMagicalLog
+1: tile.blockMagicalLog
+2: tile.blockMagicalLog
+3: tile.blockMagicalLog
+4: tile.blockMagicalLog
+5: tile.blockMagicalLog
+6: tile.blockMagicalLog
+7: tile.blockMagicalLog
+8: tile.blockMagicalLog
+9: tile.blockMagicalLog
+10: tile.blockMagicalLog
+11: tile.blockMagicalLog
+12: tile.blockMagicalLog
+13: tile.blockMagicalLog
+14: tile.blockMagicalLog
+15: tile.blockMagicalLog
+tile.blockMagicalLeaves
+0: tile.blockMagicalLeaves
+1: tile.blockMagicalLeaves
+2: tile.blockMagicalLeaves
+3: tile.blockMagicalLeaves
+4: tile.blockMagicalLeaves
+5: tile.blockMagicalLeaves
+6: tile.blockMagicalLeaves
+7: tile.blockMagicalLeaves
+8: tile.blockMagicalLeaves
+9: tile.blockMagicalLeaves
+10: tile.blockMagicalLeaves
+11: tile.blockMagicalLeaves
+12: tile.blockMagicalLeaves
+13: tile.blockMagicalLeaves
+14: tile.blockMagicalLeaves
+15: tile.blockMagicalLeaves
+tile.blockArcaneFurnace
+tile.blockCrucible
+0: tile.blockCrucible
+1: tile.blockCrucible
+2: tile.blockCrucible
+3: tile.blockCrucible
+4: tile.blockCrucible
+5: tile.blockCrucible
+6: tile.blockCrucible
+7: tile.blockCrucible
+8: tile.blockCrucible
+9: tile.blockCrucible
+10: tile.blockCrucible
+11: tile.blockCrucible
+12: tile.blockCrucible
+13: tile.blockCrucible
+14: tile.blockCrucible
+15: tile.blockCrucible
+tile.blockMarker
+0: tile.blockMarker
+1: tile.blockMarker
+2: tile.blockMarker
+3: tile.blockMarker
+4: tile.blockMarker
+5: tile.blockMarker
+6: tile.blockMarker
+7: tile.blockMarker
+8: tile.blockMarker
+9: tile.blockMarker
+10: tile.blockMarker
+11: tile.blockMarker
+12: tile.blockMarker
+13: tile.blockMarker
+14: tile.blockMarker
+15: tile.blockMarker
+tile.blockTable
+0: tile.blockTable
+1: tile.blockTable
+2: tile.blockTable
+3: tile.blockTable
+4: tile.blockTable
+5: tile.blockTable
+6: tile.blockTable
+7: tile.blockTable
+8: tile.blockTable
+9: tile.blockTable
+10: tile.blockTable
+11: tile.blockTable
+12: tile.blockTable
+13: tile.blockTable
+14: tile.blockTable
+15: tile.blockTable
+tile.blockChestHungry
+tile.blockCandle
+0: tile.blockCandle
+1: tile.blockCandle
+2: tile.blockCandle
+3: tile.blockCandle
+4: tile.blockCandle
+5: tile.blockCandle
+6: tile.blockCandle
+7: tile.blockCandle
+8: tile.blockCandle
+9: tile.blockCandle
+10: tile.blockCandle
+11: tile.blockCandle
+12: tile.blockCandle
+13: tile.blockCandle
+14: tile.blockCandle
+15: tile.blockCandle
+tile.blockInfusionWorkbench
+tile.blockWooden
+tile.blockJar
+0: tile.blockJar
+1: tile.blockJar
+2: tile.blockJar
+3: tile.blockJar
+4: tile.blockJar
+5: tile.blockJar
+6: tile.blockJar
+7: tile.blockJar
+8: tile.blockJar
+9: tile.blockJar
+10: tile.blockJar
+11: tile.blockJar
+12: tile.blockJar
+13: tile.blockJar
+14: tile.blockJar
+15: tile.blockJar
+tile.blockArcaneDoor
+tile.blockSecure
+0: tile.blockSecure
+1: tile.blockSecure
+2: tile.blockSecure
+3: tile.blockSecure
+4: tile.blockSecure
+5: tile.blockSecure
+6: tile.blockSecure
+7: tile.blockSecure
+8: tile.blockSecure
+9: tile.blockSecure
+10: tile.blockSecure
+11: tile.blockSecure
+12: tile.blockSecure
+13: tile.blockSecure
+14: tile.blockSecure
+15: tile.blockSecure
+tile.blockWoodenDevice
+0: tile.blockWoodenDevice
+1: tile.blockWoodenDevice
+2: tile.blockWoodenDevice
+3: tile.blockWoodenDevice
+4: tile.blockWoodenDevice
+5: tile.blockWoodenDevice
+6: tile.blockWoodenDevice
+7: tile.blockWoodenDevice
+8: tile.blockWoodenDevice
+9: tile.blockWoodenDevice
+10: tile.blockWoodenDevice
+11: tile.blockWoodenDevice
+12: tile.blockWoodenDevice
+13: tile.blockWoodenDevice
+14: tile.blockWoodenDevice
+15: tile.blockWoodenDevice
+tile.blockLifter
+tile.blockNitor
+tile.blockCrystal
+0: tile.blockCrystal
+1: tile.blockCrystal
+2: tile.blockCrystal
+3: tile.blockCrystal
+4: tile.blockCrystal
+5: tile.blockCrystal
+6: tile.blockCrystal
+7: tile.blockCrystal
+8: tile.blockCrystal
+9: tile.blockCrystal
+10: tile.blockCrystal
+11: tile.blockCrystal
+12: tile.blockCrystal
+13: tile.blockCrystal
+14: tile.blockCrystal
+15: tile.blockCrystal
+tile.blockCosmeticOpaque
+0: tile.blockCosmeticOpaque
+1: tile.blockCosmeticOpaque
+2: tile.blockCosmeticOpaque
+3: tile.blockCosmeticOpaque
+4: tile.blockCosmeticOpaque
+5: tile.blockCosmeticOpaque
+6: tile.blockCosmeticOpaque
+7: tile.blockCosmeticOpaque
+8: tile.blockCosmeticOpaque
+9: tile.blockCosmeticOpaque
+10: tile.blockCosmeticOpaque
+11: tile.blockCosmeticOpaque
+12: tile.blockCosmeticOpaque
+13: tile.blockCosmeticOpaque
+14: tile.blockCosmeticOpaque
+15: tile.blockCosmeticOpaque
+tile.blockCosmeticSolid
+0: tile.blockCosmeticSolid
+1: tile.blockCosmeticSolid
+2: tile.blockCosmeticSolid
+3: tile.blockCosmeticSolid
+4: tile.blockCosmeticSolid
+5: tile.blockCosmeticSolid
+6: tile.blockCosmeticSolid
+7: tile.blockCosmeticSolid
+8: tile.blockCosmeticSolid
+9: tile.blockCosmeticSolid
+10: tile.blockCosmeticSolid
+11: tile.blockCosmeticSolid
+12: tile.blockCosmeticSolid
+13: tile.blockCosmeticSolid
+14: tile.blockCosmeticSolid
+15: tile.blockCosmeticSolid
+tile.blockMirror
+0: tile.blockMirror
+1: tile.blockMirror
+2: tile.blockMirror
+3: tile.blockMirror
+4: tile.blockMirror
+5: tile.blockMirror
+6: tile.blockMirror
+7: tile.blockMirror
+8: tile.blockMirror
+9: tile.blockMirror
+10: tile.blockMirror
+11: tile.blockMirror
+12: tile.blockMirror
+13: tile.blockMirror
+14: tile.blockMirror
+15: tile.blockMirror
+tile.BlockMetaID_Block2
+0: tile.BlockMetaID_Block2
+1: tile.BlockMetaID_Block2
+2: tile.BlockMetaID_Block2
+3: tile.BlockMetaID_Block2
+4: tile.BlockMetaID_Block2
+5: tile.BlockMetaID_Block2
+6: tile.BlockMetaID_Block2
+7: tile.BlockMetaID_Block2
+8: tile.BlockMetaID_Block2
+9: tile.BlockMetaID_Block2
+10: tile.BlockMetaID_Block2
+11: tile.BlockMetaID_Block2
+12: tile.BlockMetaID_Block2
+13: tile.BlockMetaID_Block2
+14: tile.BlockMetaID_Block2
+15: tile.BlockMetaID_Block2
+tile.BlockMetaID_Block
+0: tile.BlockMetaID_Block
+1: tile.BlockMetaID_Block
+2: tile.BlockMetaID_Block
+3: tile.BlockMetaID_Block
+4: tile.BlockMetaID_Block
+5: tile.BlockMetaID_Block
+6: tile.BlockMetaID_Block
+7: tile.BlockMetaID_Block
+8: tile.BlockMetaID_Block
+9: tile.BlockMetaID_Block
+10: tile.BlockMetaID_Block
+11: tile.BlockMetaID_Block
+12: tile.BlockMetaID_Block
+13: tile.BlockMetaID_Block
+14: tile.BlockMetaID_Block
+15: tile.BlockMetaID_Block
+tile.BlockMetaID_Machine
+0: tile.BlockMetaID_Machine
+1: tile.BlockMetaID_Machine
+2: tile.BlockMetaID_Machine
+3: tile.BlockMetaID_Machine
+4: tile.BlockMetaID_Machine
+5: tile.BlockMetaID_Machine
+6: tile.BlockMetaID_Machine
+7: tile.BlockMetaID_Machine
+8: tile.BlockMetaID_Machine
+9: tile.BlockMetaID_Machine
+10: tile.BlockMetaID_Machine
+11: tile.BlockMetaID_Machine
+12: tile.BlockMetaID_Machine
+13: tile.BlockMetaID_Machine
+14: tile.BlockMetaID_Machine
+15: tile.BlockMetaID_Machine
+tile.BlockMetaID_Ore
+0: tile.BlockMetaID_Ore
+1: tile.BlockMetaID_Ore
+2: tile.BlockMetaID_Ore
+3: tile.BlockMetaID_Ore
+4: tile.BlockMetaID_Ore
+5: tile.BlockMetaID_Ore
+6: tile.BlockMetaID_Ore
+7: tile.BlockMetaID_Ore
+8: tile.BlockMetaID_Ore
+9: tile.BlockMetaID_Ore
+10: tile.BlockMetaID_Ore
+11: tile.BlockMetaID_Ore
+12: tile.BlockMetaID_Ore
+13: tile.BlockMetaID_Ore
+14: tile.BlockMetaID_Ore
+15: tile.BlockMetaID_Ore
+tile.GT_LightSource
+tile.pneumaticGenerator
+0: tile.pneumaticGenerator
+1: tile.pneumaticGenerator
+2: tile.pneumaticGenerator
+3: tile.pneumaticGenerator
+tile.electricEngine
+0: tile.electricEngine
+1: tile.electricEngine
+2: tile.electricEngine
+3: tile.electricEngine
+tile.stained
+0: tile.stained
+1: tile.stained
+2: tile.stained
+3: tile.stained
+4: tile.stained
+5: tile.stained
+6: tile.stained
+7: tile.stained
+8: tile.stained
+9: tile.stained
+10: tile.stained
+11: tile.stained
+12: tile.stained
+13: tile.stained
+14: tile.stained
+15: tile.stained
+tile.BlockUpgrade
+0: tile.BlockUpgrade
+1: tile.BlockUpgrade
+2: tile.BlockUpgrade
+3: tile.BlockUpgrade
+4: tile.BlockUpgrade
+5: tile.BlockUpgrade
+6: tile.BlockUpgrade
+7: tile.BlockUpgrade
+8: tile.BlockUpgrade
+9: tile.BlockUpgrade
+10: tile.BlockUpgrade
+11: tile.BlockUpgrade
+12: tile.BlockUpgrade
+13: tile.BlockUpgrade
+14: tile.BlockUpgrade
+15: tile.BlockUpgrade
+tile.BlockDetector
+tile.BlockDistributor
+tile.BlockActivator
+tile.BlockAdvDetector
+tile.railcraftTrack
+0: tile.railcraftTrack
+1: tile.railcraftTrack
+2: tile.railcraftTrack
+3: tile.railcraftTrack
+4: tile.railcraftTrack
+5: tile.railcraftTrack
+6: tile.railcraftTrack
+7: tile.railcraftTrack
+8: tile.railcraftTrack
+9: tile.railcraftTrack
+10: tile.railcraftTrack
+11: tile.railcraftTrack
+12: tile.railcraftTrack
+13: tile.railcraftTrack
+14: tile.railcraftTrack
+15: tile.railcraftTrack
+tile.rcBlockMachineGamma
+0: tile.rcBlockMachineGamma
+1: tile.rcBlockMachineGamma
+2: tile.rcBlockMachineGamma
+3: tile.rcBlockMachineGamma
+4: tile.rcBlockMachineGamma
+5: tile.rcBlockMachineGamma
+6: tile.rcBlockMachineGamma
+7: tile.rcBlockMachineGamma
+8: tile.rcBlockMachineGamma
+9: tile.rcBlockMachineGamma
+10: tile.rcBlockMachineGamma
+11: tile.rcBlockMachineGamma
+12: tile.rcBlockMachineGamma
+13: tile.rcBlockMachineGamma
+14: tile.rcBlockMachineGamma
+15: tile.rcBlockMachineGamma
+tile.rcBlockMachineBeta
+0: tile.rcBlockMachineBeta
+1: tile.rcBlockMachineBeta
+2: tile.rcBlockMachineBeta
+3: tile.rcBlockMachineBeta
+4: tile.rcBlockMachineBeta
+5: tile.rcBlockMachineBeta
+6: tile.rcBlockMachineBeta
+7: tile.rcBlockMachineBeta
+8: tile.rcBlockMachineBeta
+9: tile.rcBlockMachineBeta
+10: tile.rcBlockMachineBeta
+11: tile.rcBlockMachineBeta
+12: tile.rcBlockMachineBeta
+13: tile.rcBlockMachineBeta
+14: tile.rcBlockMachineBeta
+15: tile.rcBlockMachineBeta
+tile.rcBlockMachineAlpha
+0: tile.rcBlockMachineAlpha
+1: tile.rcBlockMachineAlpha
+2: tile.rcBlockMachineAlpha
+3: tile.rcBlockMachineAlpha
+4: tile.rcBlockMachineAlpha
+5: tile.rcBlockMachineAlpha
+6: tile.rcBlockMachineAlpha
+7: tile.rcBlockMachineAlpha
+8: tile.rcBlockMachineAlpha
+9: tile.rcBlockMachineAlpha
+10: tile.rcBlockMachineAlpha
+11: tile.rcBlockMachineAlpha
+12: tile.rcBlockMachineAlpha
+13: tile.rcBlockMachineAlpha
+14: tile.rcBlockMachineAlpha
+15: tile.rcBlockMachineAlpha
+tile.cartDetector
+0: tile.cartDetector
+1: tile.cartDetector
+2: tile.cartDetector
+3: tile.cartDetector
+4: tile.cartDetector
+5: tile.cartDetector
+6: tile.cartDetector
+7: tile.cartDetector
+8: tile.cartDetector
+9: tile.cartDetector
+10: tile.cartDetector
+11: tile.cartDetector
+12: tile.cartDetector
+13: tile.cartDetector
+14: tile.cartDetector
+15: tile.cartDetector
+tile.redwood
+tile.purplestone
+tile.darkstone
+tile.checker
+tile.bedrockblock
+tile.ccturtle
+0: tile.ccturtle
+1: tile.ccturtle
+2: tile.ccturtle
+3: tile.ccturtle
+4: tile.ccturtle
+5: tile.ccturtle
+6: tile.ccturtle
+7: tile.ccturtle
+8: tile.ccturtle
+9: tile.ccturtle
+10: tile.ccturtle
+11: tile.ccturtle
+12: tile.ccturtle
+13: tile.ccturtle
+14: tile.ccturtle
+15: tile.ccturtle
+tile.ccturtle
+0: tile.ccturtle
+1: tile.ccturtle
+2: tile.ccturtle
+3: tile.ccturtle
+4: tile.ccturtle
+5: tile.ccturtle
+6: tile.ccturtle
+7: tile.ccturtle
+8: tile.ccturtle
+9: tile.ccturtle
+10: tile.ccturtle
+11: tile.ccturtle
+12: tile.ccturtle
+13: tile.ccturtle
+14: tile.ccturtle
+15: tile.ccturtle
+tile.ccdiskdrive
+0: tile.ccdiskdrive
+1: tile.ccdiskdrive
+2: tile.ccdiskdrive
+3: tile.ccdiskdrive
+4: tile.ccdiskdrive
+tile.cccomputer
+0: tile.cccomputer
+1: tile.cccomputer
+2: tile.cccomputer
+3: tile.cccomputer
+4: tile.cccomputer
+5: tile.cccomputer
+6: tile.cccomputer
+7: tile.cccomputer
+8: tile.cccomputer
+9: tile.cccomputer
+10: tile.cccomputer
+11: tile.cccomputer
+12: tile.cccomputer
+13: tile.cccomputer
+14: tile.cccomputer
+15: tile.cccomputer
+item.ccdisk
+0: item.ccdisk
+1: item.ccdisk
+2: item.ccdisk
+3: item.ccdisk
+4: item.ccdisk
+5: item.ccdisk
+6: item.ccdisk
+7: item.ccdisk
+8: item.ccdisk
+9: item.ccdisk
+10: item.ccdisk
+11: item.ccdisk
+12: item.ccdisk
+13: item.ccdisk
+14: item.ccdisk
+15: item.ccdisk
+item.ccdisk
+0: item.ccdisk
+1: item.ccdisk
+2: item.ccdisk
+3: item.ccdisk
+4: item.ccdisk
+5: item.ccdisk
+6: item.ccdisk
+7: item.ccdisk
+8: item.ccdisk
+9: item.ccdisk
+10: item.ccdisk
+11: item.ccdisk
+12: item.ccdisk
+13: item.ccdisk
+14: item.ccdisk
+15: item.ccdisk
+item.ccprintout
+0: item.ccprintout
+1: item.ccprintout
+2: item.ccprintout
+item.krakenhead
+item.krakenbody
+item.krakenlegs
+item.PipePowerWoodHV
+item.krakenboots
+item.netheritehead
+item.netheritebody
+item.netheritelegs
+item.netheriteboots
+item.infernohead
+item.infernobody
+item.infernolegs
+item.infernoboots
+item.bedrockhead
+item.bedrockbody
+item.bedrocklegs
+item.bedrockboots
+item.plasmahead
+item.plasmaheady
+item.plasmaheadb
+item.plasmaheadg
+item.plasmaheadr
+item.plasmaheadd
+item.plasmabody
+item.plasmabodyy
+item.plasmabodyb
+item.plasmabodyg
+item.plasmabodyr
+item.plasmabodyd
+item.plasmalegs
+item.plasmalegsy
+item.plasmalegsb
+item.plasmalegsg
+item.plasmalegsr
+item.plasmalegsd
+item.plasmaboots
+item.plasmabootsy
+item.plasmabootsb
+item.plasmabootsg
+item.plasmabootsr
+item.plasmabootsd
+item.realmitehead
+item.realmitebody
+item.realmitelegs
+item.realmiteboots
+item.eliterealmitehead
+item.eliterealmitebody
+item.eliterealmitelegs
+item.eliterealmiteboots
+item.aquastrivehead
+item.aquastrivebody
+item.aquastrivelegs
+item.aquastriveboots
+item.shadowhead
+item.shadowbody
+item.shadowlegs
+item.shadowboots
+item.divinehead
+item.divinebody
+item.divinelegs
+item.divineboots
+item.angelichead
+item.angelicbody
+item.angeliclegs
+item.angelicboots
+item.donatorhead
+item.donatorbody
+item.donatorlegs
+item.donatorboots
+item.infernosword
+item.arlemitesword
+item.rupeerapier
+item.slimesword
+item.furymaul
+item.bedrock
+item.serenadehealth
+item.seranade
+item.realmiteaxe
+item.realmitepickaxe
+item.reamiteshovel
+item.reamitesword
+item.bedrockaxe
+item.bedrockpickaxe
+item.bedrockshovel
+item.bedrocksword
+item.crystalaxe
+item.crystalpickaxe
+item.bedrockshovel
+item.crystalhoe
+item.crystalsword
+item.crystalshicaxe
+item.blazingsword
+item.aquaton
+item.aquatic
+item.blooddagger
+item.gemrack
+item.enderswordy
+item.enderswordr
+item.enderswordg
+item.enderswordd
+item.enderswordb
+item.endersword
+item.dalmorsaber
+item.gognishar
+item.namkormira
+item.haimreicher
+item.donatoraxe
+item.donatorpick
+item.doonatorshovel
+item.plasmaaxe
+item.plasmapic
+item.plasma
+item.plasmahoe
+item.plasmashicaxe
+item.divineaxe
+item.divinepick
+item.divineshovel
+item.poisonsaber
+item.donatorsword
+item.divinesword
+item.shuriken
+item.vshuriken
+item.soundofmusic
+item.ghastcannon
+item.mailstrom
+item.frostcannon
+item.shadowbow
+item.infernobow
+item.poison
+item.bluebow
+item.deathseranade
+item.sandslash
+item.donut
+item.pizzadough
+item.bacon
+item.watermelon
+item.tomato
+item.minipizza
+item.cheese
+item.dinner
+item.begg
+item.white
+item.aquaBall
+item.aquablazerod
+item.krakenscale
+item.krakenskin
+item.purpleBlaze
+item.glowinggem
+item.chisel
+item.healingstone
+item.legendaryendereye
+item.arlemite
+item.rupee
+item.realmitebar
+item.netheritechunk
+item.netheritebar
+item.shadowbar
+item.blackcrystallon
+item.bluecrystallon
+item.yellowcrystallon
+item.greencrystallon
+item.redcrystallon
+item.yellowshard
+item.blueshard
+item.purpleshard
+item.redshard
+item.greenshard
+item.icestone
+item.hellstone
+item.divinestone
+item.junglestone
+item.firestone
+item.shadowstone
+item.moltenStone
+item.tomatoseeds
+item.whItemushroomSeeds
+item.watchereye
+item.watcherspawner
+item.ancient
+item.enderStone
+item.serenityfrags
+item.energyfrags
+item.azuritefrags
+item.mythrilfrags
+item.densefrags
+item.serenityGem
+item.energyGem
+item.azuriteGem
+item.mythrilGem
+item.denseGem
+item.serenityChunk
+item.energyChunk
+item.azuriteChunk
+item.mythrilChunk
+item.denseChunk
+item.serenitypic
+item.serenityaxe
+item.serenityshovel
+item.serenitysword
+item.azuritepic
+item.azuriteaxe
+item.azuriteshovel
+item.azuritesword
+item.energypic
+item.energyaxe
+item.energyshovel
+item.energysword
+item.mythrilpic
+item.mythrilaxe
+item.mythrilshovel
+item.mythrilsword
+item.densepic
+item.denseaxe
+item.denseshovel
+item.densesword
+item.ultimasword
+item.serenitybow
+item.azuritebow
+item.energybow
+item.mythrilbow
+item.densebow
+item.ultimabow
+item.twilightbow
+item.serenityslicer
+item.azuriteslicer
+item.energyslicer
+item.mythrilslicer
+item.denseslicer
+item.ultimaslicer
+item.serenityblitz
+item.azuriteblitz
+item.energyblitz
+item.mythrilblitz
+item.denseblitz
+item.ultimablitz
+item.goldblitz
+item.serenityphasers
+item.azuritephasers
+item.energyphasers
+item.mythrilphasers
+item.densephasers
+item.ultimaphasers
+item.queenofice
+item.kingoffire
+item.spawnbase
+item.spawnsoulfiend
+item.spawnvamacheron
+item.spawntwilightdemon
+item.spawnkarot
+item.spawndensos
+item.spawnReyvor
+item.spawnMamormeter
+item.spawnzichile
+item.serenitySoul
+item.energySoul
+item.azuriteSoul
+item.mythrilSoul
+item.denseSoul
+item.growthserenade
+item.serenityDust
+item.energyDust
+item.azuriteDust
+item.mythrilDust
+item.denseDust
+item.transporter
+item.sharkssword
+item.oceanknife
+item.crabclacannon
+item.bowheadcannon
+item.dualclaw
+item.sharkanchor
+item.clawanchor
+item.bowheadanchor
+item.aquaticingot
+item.sharkfin
+item.whalefin
+item.crabclaw
+item.aquaticpellets
+item.pureaquaticpellets
+item.pinkseeds
+item.purpleseeds
+item.blueseeds
+item.pumpkinpie
+item.magicmeat
+item.magicmeat+
+item.empoweredMeatRaw
+item.empoweredMeatCooked
+item.twilightClock
+item.azuritearrow
+item.furyarrow
+item.tarbucket
+item.enderhead
+item.enderheady
+item.enderheadb
+item.enderheadg
+item.enderheadr
+item.enderheadd
+item.enderbody
+item.enderbodyy
+item.enderbodyb
+item.enderbodyg
+item.enderbodyr
+item.enderbodyd
+item.enderlegs
+item.enderlegsy
+item.enderlegsb
+item.enderlegsg
+item.enderlegsr
+item.enderlegsd
+item.enderboots
+item.enderbootsy
+item.enderbootsb
+item.enderbootsg
+item.enderbootsr
+item.enderbootsd
+item.crystonalhead
+item.crystonalbody
+item.crystonallegs
+item.crystonalboots
+item.serenityhead
+item.serenitybody
+item.serenitylegs
+item.serenityboots
+item.azuritehead
+item.azuritebody
+item.azuritelegs
+item.azuriteboots
+item.energyCrystalhead
+item.energyCrystalbody
+item.energyCrystallegs
+item.energyCrystalboots
+item.mythrilhead
+item.mythrilbody
+item.mythrillegs
+item.mythrilboots
+item.densehead
+item.densebody
+item.denselegs
+item.denseboots
+item.ultimahead
+item.ultimabody
+item.ultimalegs
+item.ultimaboots
+item.jackomanhead
+item.jackomanbody
+item.jackomanlegs
+item.jackomanboots
+item.skelemanhead
+item.skelemanbody
+item.skelemanlegs
+item.skelemanboots
+item.grimReaperhead
+item.grimReaperbody
+item.grimReaperlegs
+item.grimReaperboots
+item.scythe
+item.doorWood
+item.doorWood
+item.doorWood
+item.doorWood
+item.key1
+item.key2
+item.key3
+item.key4
+item.corruptedShards
+item.helmetDiamond
+item.chestplateDiamond
+item.leggingsDiamond
+item.bootsDiamond
+item.corruptedAxe
+item.corruptedpickaxe
+item.corruptedShovel
+item.corruptedStone
+item.corruptedMaul
+item.deathBringer
+item.musicbox2
+item.musicbox3
+item.musicbox4
+item.musicbox5
+item.hitchakItem
+item.fireStockItem
+item.pinflyItem
+item.veiloItem
+item.lamonaItem
+item.aquamarineItem
+item.marsineItem
+item.hitchakSeeds
+item.eucalyptusRootSeeds
+item.veiloSeeds
+item.lamonaSeeds
+item.aquamarineSeeds
+item.marsineSeeds
+item.pinFlySeeds
+item.fireStockSeeds
+item.arcanium
+item.fyracryxspawner
+item.firefly
+item.starfall
+item.moltensword
+item.frostsword
+item.enderbow
+item.corruptedCannon
+item.corruptedbullet
+item.reflector
+item.stormSword
+item.staffOfStarlight
+item.wraithbane
+item.captiansSparkler
+item.shadowSword
+item.enderScepter
+item.grenadeLauncher
+item.grenade
+item.meriksMissile
+item.arcaniumSaber
+item.paratikuspawner
+item.seimerSpawner
+item.golemOfRejuvSpawner
+item.dungeonToken
+item.liviciaSword
+item.santahead
+item.santabody
+item.santalegs
+item.santaboots
+item.vemoshead
+item.vemosbody
+item.vemosLegs
+item.vemosboots
+item.kormahead
+item.kormabody
+item.kormaLegs
+item.kormaboots
+item.wizardbook
+item.arcaniumbucket
+item.collector
+item.collectorfragments
+item.snowflake
+item.iciclebane
+item.soundofcarols
+item.icinesword
+item.frossivence
+item.enerice
+item.snowslash
+item.serenadeofice
+item.glaciersword
+item.frostkingsowrd
+item.frozenmaul
+item.frostclawcannon
+item.fractitecannon
+item.snowflakeshuriken
+item.icicleBow
+item.froststormbow
+item.orboflight
+item.peppermints
+item.eggnog
+item.chocolatelog
+item.snowcones
+item.fruitcake
+item.weakarcanpotion
+item.strongarcanapotion
+item.arcanaMusicBox
+item.staffofenrichment
+item.helmetIron
+item.chestplateIron
+item.leggingsIron
+item.bootsIron
+item.furyFire
+item.flamingFury
+item.AyeracoHordeSpawner
+item.DraviteSparkles
+Valve Pipe
+Cobblestone Golden Waterproof Pipe
+Stone Golden Waterproof Pipe
+Automatic Wooden Transport Pipe
+Sandstone Golden Waterproof Pipe
+Cobblestone Industrial Waterproof Pipe
+Stone Industrial Waterproof Pipe
+Power Switch Pipe
+item.customplate
+0: item.customplate
+1: item.customplate
+2: item.customplate
+3: item.customplate
+4: item.customplate
+5: item.customplate
+Sandstone Gold Power Pipe
+Automatic Emerald Pipe
+item.upgradeManagerItem
+item.itemUpgrade
+0: item.itemUpgrade
+1: item.itemUpgrade
+2: item.itemUpgrade
+3: item.itemUpgrade
+4: item.itemUpgrade
+5: item.itemUpgrade
+6: item.itemUpgrade
+7: item.itemUpgrade
+8: item.itemUpgrade
+9: item.itemUpgrade
+10: item.itemUpgrade
+11: item.itemUpgrade
+12: item.itemUpgrade
+13: item.itemUpgrade
+14: item.itemUpgrade
+15: item.itemUpgrade
+item.logisticsParts
+0: item.logisticsParts
+1: item.logisticsParts
+2: item.logisticsParts
+3: item.logisticsParts
+4: item.logisticsParts
+5: item.logisticsParts
+6: item.logisticsParts
+7: item.logisticsParts
+8: item.logisticsParts
+9: item.logisticsParts
+10: item.logisticsParts
+11: item.logisticsParts
+12: item.logisticsParts
+13: item.logisticsParts
+14: item.logisticsParts
+15: item.logisticsParts
+item.logisticsHUDGlasses
+item.logisticsItemCard
+0: item.logisticsItemCard
+1: item.logisticsItemCard
+2: item.logisticsItemCard
+3: item.logisticsItemCard
+4: item.logisticsItemCard
+5: item.logisticsItemCard
+6: item.logisticsItemCard
+7: item.logisticsItemCard
+8: item.logisticsItemCard
+9: item.logisticsItemCard
+10: item.logisticsItemCard
+11: item.logisticsItemCard
+12: item.logisticsItemCard
+13: item.logisticsItemCard
+14: item.logisticsItemCard
+15: item.logisticsItemCard
+item.itemDisk
+item.itemModule
+0: item.itemModule
+1: item.itemModule
+2: item.itemModule
+3: item.itemModule
+4: item.itemModule
+5: item.itemModule
+6: item.itemModule
+7: item.itemModule
+8: item.itemModule
+9: item.itemModule
+10: item.itemModule
+11: item.itemModule
+12: item.itemModule
+13: item.itemModule
+14: item.itemModule
+15: item.itemModule
+item.remoteOrdererItem
+item.networkMonitorItem
+item.PipeItemsBasicLogistics
+item.PipeItemsRequestLogistics
+item.PipeItemsProviderLogistics
+item.PipeItemsCraftingLogistics
+item.PipeItemsSatelliteLogistics
+item.PipeItemsSupplierLogistics
+item.PipeItemsBuilderSupplierLogistics
+item.PipeLogisticsChassiMk1
+item.PipeLogisticsChassiMk2
+item.PipeLogisticsChassiMk3
+item.PipeLogisticsChassiMk4
+item.PipeLogisticsChassiMk5
+item.PipeItemsLiquidSupplier
+item.PipeItemsCraftingLogisticsMk2
+item.PipeItemsRequestLogisticsMk2
+item.PipeItemsRemoteOrdererLogistics
+item.PipeItemsProviderLogisticsMk2
+item.PipeItemsApiaristAnalyser
+item.PipeItemsApiaristSink
+item.PipeItemsInvSysConnector
+item.PipeItemsSystemEntranceLogistics
+item.PipeItemsSystemDestinationLogistics
+item.PipeItemsCraftingLogisticsMk3
+item.PipeItemsFirewall
+item.CraftingSignCreator
+item.doorWood
+item.enderpouch
+0: item.enderpouch
+1: item.enderpouch
+2: item.enderpouch
+3: item.enderpouch
+4: item.enderpouch
+5: item.enderpouch
+6: item.enderpouch
+7: item.enderpouch
+8: item.enderpouch
+9: item.enderpouch
+10: item.enderpouch
+11: item.enderpouch
+12: item.enderpouch
+13: item.enderpouch
+14: item.enderpouch
+15: item.enderpouch
+item.rc.armor.goggles
+item.rc.armor.overalls
+item.rc.armor.steel.boots
+item.rc.armor.steel.helmet
+item.rc.armor.steel.legs
+item.rc.armor.steel.plate
+null
+null
+null
+null
+item.rc.dust
+0: item.rc.dust
+1: item.rc.dust
+2: item.rc.dust
+3: item.rc.dust
+item.rc.fuel.coke
+item.lapotronUpgrade
+item.rc.item.cart.anchor
+0: item.rc.item.cart.anchor
+1: item.rc.item.cart.anchor
+2: item.rc.item.cart.anchor
+3: item.rc.item.cart.anchor
+4: item.rc.item.cart.anchor
+5: item.rc.item.cart.anchor
+6: item.rc.item.cart.anchor
+7: item.rc.item.cart.anchor
+8: item.rc.item.cart.anchor
+9: item.rc.item.cart.anchor
+10: item.rc.item.cart.anchor
+11: item.rc.item.cart.anchor
+12: item.rc.item.cart.anchor
+13: item.rc.item.cart.anchor
+14: item.rc.item.cart.anchor
+15: item.rc.item.cart.anchor
+item.rc.item.cart.anchor.personal
+0: item.rc.item.cart.anchor.personal
+1: item.rc.item.cart.anchor.personal
+2: item.rc.item.cart.anchor.personal
+3: item.rc.item.cart.anchor.personal
+4: item.rc.item.cart.anchor.personal
+5: item.rc.item.cart.anchor.personal
+6: item.rc.item.cart.anchor.personal
+7: item.rc.item.cart.anchor.personal
+8: item.rc.item.cart.anchor.personal
+9: item.rc.item.cart.anchor.personal
+10: item.rc.item.cart.anchor.personal
+11: item.rc.item.cart.anchor.personal
+12: item.rc.item.cart.anchor.personal
+13: item.rc.item.cart.anchor.personal
+14: item.rc.item.cart.anchor.personal
+15: item.rc.item.cart.anchor.personal
+item.cart.batbox
+0: item.cart.batbox
+1: item.cart.batbox
+2: item.cart.batbox
+3: item.cart.batbox
+4: item.cart.batbox
+5: item.cart.batbox
+6: item.cart.batbox
+7: item.cart.batbox
+8: item.cart.batbox
+9: item.cart.batbox
+10: item.cart.batbox
+11: item.cart.batbox
+12: item.cart.batbox
+13: item.cart.batbox
+14: item.cart.batbox
+15: item.cart.batbox
+item.tunnelBore
+item.rc.item.cart.gift
+0: item.rc.item.cart.gift
+1: item.rc.item.cart.gift
+2: item.rc.item.cart.gift
+3: item.rc.item.cart.gift
+4: item.rc.item.cart.gift
+5: item.rc.item.cart.gift
+6: item.rc.item.cart.gift
+7: item.rc.item.cart.gift
+8: item.rc.item.cart.gift
+9: item.rc.item.cart.gift
+10: item.rc.item.cart.gift
+11: item.rc.item.cart.gift
+12: item.rc.item.cart.gift
+13: item.rc.item.cart.gift
+14: item.rc.item.cart.gift
+15: item.rc.item.cart.gift
+item.rc.item.cart.loco.steam
+0: item.rc.item.cart.loco.steam
+1: item.rc.item.cart.loco.steam
+2: item.rc.item.cart.loco.steam
+3: item.rc.item.cart.loco.steam
+4: item.rc.item.cart.loco.steam
+5: item.rc.item.cart.loco.steam
+6: item.rc.item.cart.loco.steam
+7: item.rc.item.cart.loco.steam
+8: item.rc.item.cart.loco.steam
+9: item.rc.item.cart.loco.steam
+10: item.rc.item.cart.loco.steam
+11: item.rc.item.cart.loco.steam
+12: item.rc.item.cart.loco.steam
+13: item.rc.item.cart.loco.steam
+14: item.rc.item.cart.loco.steam
+15: item.rc.item.cart.loco.steam
+item.cart.mfe
+0: item.cart.mfe
+1: item.cart.mfe
+2: item.cart.mfe
+3: item.cart.mfe
+4: item.cart.mfe
+5: item.cart.mfe
+6: item.cart.mfe
+7: item.cart.mfe
+8: item.cart.mfe
+9: item.cart.mfe
+10: item.cart.mfe
+11: item.cart.mfe
+12: item.cart.mfe
+13: item.cart.mfe
+14: item.cart.mfe
+15: item.cart.mfe
+item.cart.mfsu
+0: item.cart.mfsu
+1: item.cart.mfsu
+2: item.cart.mfsu
+3: item.cart.mfsu
+4: item.cart.mfsu
+5: item.cart.mfsu
+6: item.cart.mfsu
+7: item.cart.mfsu
+8: item.cart.mfsu
+9: item.cart.mfsu
+10: item.cart.mfsu
+11: item.cart.mfsu
+12: item.cart.mfsu
+13: item.cart.mfsu
+14: item.cart.mfsu
+15: item.cart.mfsu
+item.rc.item.cart.pumpkin
+0: item.rc.item.cart.pumpkin
+1: item.rc.item.cart.pumpkin
+2: item.rc.item.cart.pumpkin
+3: item.rc.item.cart.pumpkin
+4: item.rc.item.cart.pumpkin
+5: item.rc.item.cart.pumpkin
+6: item.rc.item.cart.pumpkin
+7: item.rc.item.cart.pumpkin
+8: item.rc.item.cart.pumpkin
+9: item.rc.item.cart.pumpkin
+10: item.rc.item.cart.pumpkin
+11: item.rc.item.cart.pumpkin
+12: item.rc.item.cart.pumpkin
+13: item.rc.item.cart.pumpkin
+14: item.rc.item.cart.pumpkin
+15: item.rc.item.cart.pumpkin
+item.rc.item.cart.tank
+0: item.rc.item.cart.tank
+1: item.rc.item.cart.tank
+2: item.rc.item.cart.tank
+3: item.rc.item.cart.tank
+4: item.rc.item.cart.tank
+5: item.rc.item.cart.tank
+6: item.rc.item.cart.tank
+7: item.rc.item.cart.tank
+8: item.rc.item.cart.tank
+9: item.rc.item.cart.tank
+10: item.rc.item.cart.tank
+11: item.rc.item.cart.tank
+12: item.rc.item.cart.tank
+13: item.rc.item.cart.tank
+14: item.rc.item.cart.tank
+15: item.rc.item.cart.tank
+item.rc.item.cart.tnt
+0: item.rc.item.cart.tnt
+1: item.rc.item.cart.tnt
+2: item.rc.item.cart.tnt
+3: item.rc.item.cart.tnt
+4: item.rc.item.cart.tnt
+5: item.rc.item.cart.tnt
+6: item.rc.item.cart.tnt
+7: item.rc.item.cart.tnt
+8: item.rc.item.cart.tnt
+9: item.rc.item.cart.tnt
+10: item.rc.item.cart.tnt
+11: item.rc.item.cart.tnt
+12: item.rc.item.cart.tnt
+13: item.rc.item.cart.tnt
+14: item.rc.item.cart.tnt
+15: item.rc.item.cart.tnt
+item.rc.item.cart.track.relayer
+0: item.rc.item.cart.track.relayer
+1: item.rc.item.cart.track.relayer
+2: item.rc.item.cart.track.relayer
+3: item.rc.item.cart.track.relayer
+4: item.rc.item.cart.track.relayer
+5: item.rc.item.cart.track.relayer
+6: item.rc.item.cart.track.relayer
+7: item.rc.item.cart.track.relayer
+8: item.rc.item.cart.track.relayer
+9: item.rc.item.cart.track.relayer
+10: item.rc.item.cart.track.relayer
+11: item.rc.item.cart.track.relayer
+12: item.rc.item.cart.track.relayer
+13: item.rc.item.cart.track.relayer
+14: item.rc.item.cart.track.relayer
+15: item.rc.item.cart.track.relayer
+item.rc.item.cart.undercutter
+0: item.rc.item.cart.undercutter
+1: item.rc.item.cart.undercutter
+2: item.rc.item.cart.undercutter
+3: item.rc.item.cart.undercutter
+4: item.rc.item.cart.undercutter
+5: item.rc.item.cart.undercutter
+6: item.rc.item.cart.undercutter
+7: item.rc.item.cart.undercutter
+8: item.rc.item.cart.undercutter
+9: item.rc.item.cart.undercutter
+10: item.rc.item.cart.undercutter
+11: item.rc.item.cart.undercutter
+12: item.rc.item.cart.undercutter
+13: item.rc.item.cart.undercutter
+14: item.rc.item.cart.undercutter
+15: item.rc.item.cart.undercutter
+item.rc.item.cart.work
+0: item.rc.item.cart.work
+1: item.rc.item.cart.work
+2: item.rc.item.cart.work
+3: item.rc.item.cart.work
+4: item.rc.item.cart.work
+5: item.rc.item.cart.work
+6: item.rc.item.cart.work
+7: item.rc.item.cart.work
+8: item.rc.item.cart.work
+9: item.rc.item.cart.work
+10: item.rc.item.cart.work
+11: item.rc.item.cart.work
+12: item.rc.item.cart.work
+13: item.rc.item.cart.work
+14: item.rc.item.cart.work
+15: item.rc.item.cart.work
+item.rc.liquid.creosote.bottle
+item.rc.liquid.creosote.bucket
+item.rc.liquid.creosote.can
+item.rc.liquid.creosote.cell
+item.rc.liquid.creosote.liquid
+item.rc.liquid.creosote.refactory
+item.rc.liquid.creosote.wax
+item.rc.liquid.steam
+item.rc.nugget
+0: item.rc.nugget
+1: item.rc.nugget
+item.rc.part.circuit
+0: item.rc.part.circuit
+1: item.rc.part.circuit
+2: item.rc.part.circuit
+item.rc.part.gear
+0: item.rc.part.gear
+1: item.rc.part.gear
+2: item.rc.part.gear
+item.rc.part.ingot.steel
+item.rc.parrt.plate
+0: item.rc.parrt.plate
+1: item.rc.parrt.plate
+2: item.rc.parrt.plate
+item.rc.part.rail
+0: item.rc.part.rail
+1: item.rc.part.rail
+2: item.rc.part.rail
+3: item.rc.part.rail
+4: item.rc.part.rail
+item.rc.part.railbed
+0: item.rc.part.railbed
+1: item.rc.part.railbed
+2: item.rc.part.railbed
+3: item.rc.part.railbed
+4: item.rc.part.railbed
+5: item.rc.part.railbed
+6: item.rc.part.railbed
+7: item.rc.part.railbed
+8: item.rc.part.railbed
+9: item.rc.part.railbed
+10: item.rc.part.railbed
+11: item.rc.part.railbed
+12: item.rc.part.railbed
+13: item.rc.part.railbed
+14: item.rc.part.railbed
+15: item.rc.part.railbed
+item.rc.part.rebar
+item.rc.part.signal.lamp
+item.rc.part.tie
+0: item.rc.part.tie
+1: item.rc.part.tie
+2: item.rc.part.tie
+3: item.rc.part.tie
+4: item.rc.part.tie
+5: item.rc.part.tie
+6: item.rc.part.tie
+7: item.rc.part.tie
+8: item.rc.part.tie
+9: item.rc.part.tie
+10: item.rc.part.tie
+11: item.rc.part.tie
+12: item.rc.part.tie
+13: item.rc.part.tie
+14: item.rc.part.tie
+15: item.rc.part.tie
+item.rc.part.turbine.blade
+item.rc.part.turbine.disk
+item.rc.part.turbine.rotor
+item.boreHeadDiamond
+item.boreHeadIron
+item.boreHeadSteel
+item.rc.tool.crowbar
+item.rcMagGlass
+item.rc.tool.signal.tuner
+0: item.rc.tool.signal.tuner
+1: item.rc.tool.signal.tuner
+2: item.rc.tool.signal.tuner
+3: item.rc.tool.signal.tuner
+4: item.rc.tool.signal.tuner
+5: item.rc.tool.signal.tuner
+6: item.rc.tool.signal.tuner
+7: item.rc.tool.signal.tuner
+8: item.rc.tool.signal.tuner
+9: item.rc.tool.signal.tuner
+10: item.rc.tool.signal.tuner
+11: item.rc.tool.signal.tuner
+12: item.rc.tool.signal.tuner
+13: item.rc.tool.signal.tuner
+14: item.rc.tool.signal.tuner
+15: item.rc.tool.signal.tuner
+item.rc.tool.steel.axe
+item.rc.tool.steel.hoe
+item.rc.tool.steel.pickaxe
+item.rc.tool.steel.shovel
+item.rc.tool.steel.sword
+item.rc.tool.surveyor
+0: item.rc.tool.surveyor
+1: item.rc.tool.surveyor
+2: item.rc.tool.surveyor
+3: item.rc.tool.surveyor
+4: item.rc.tool.surveyor
+5: item.rc.tool.surveyor
+6: item.rc.tool.surveyor
+7: item.rc.tool.surveyor
+8: item.rc.tool.surveyor
+9: item.rc.tool.surveyor
+10: item.rc.tool.surveyor
+11: item.rc.tool.surveyor
+12: item.rc.tool.surveyor
+13: item.rc.tool.surveyor
+14: item.rc.tool.surveyor
+15: item.rc.tool.surveyor
+item.rc.tool.whistle.tuner
+item.soulShard
+item.blankSoulShard
+item.vileDust
+item.corruptedEssence
+item.corruptedFragment
+item.corruptedIngot
+item.corruptedSword
+item.myst.agebook
+item.myst.linkbook
+item.myst.notebook
+item.myst.writingdesk
+item.myst.page
+0: item.myst.page
+1: item.myst.page
+2: item.myst.page
+3: item.myst.page
+4: item.myst.page
+5: item.myst.page
+6: item.myst.page
+7: item.myst.page
+8: item.myst.page
+9: item.myst.page
+10: item.myst.page
+11: item.myst.page
+12: item.myst.page
+13: item.myst.page
+14: item.myst.page
+15: item.myst.page
+item.myst.liquid
+item.myst.vial
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+10: null
+11: null
+12: null
+13: null
+14: null
+15: null
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+10: null
+11: null
+12: null
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+10: null
+11: null
+12: null
+13: null
+14: null
+15: null
+item.handsawIron
+item.handsawDiamond
+item.screwdriver
+item.drawplateDiamond
+null
+0: null
+1: null
+2: null
+3: null
+item.planBlank
+item.planFull
+0: item.planFull
+1: item.planFull
+2: item.planFull
+3: item.planFull
+4: item.planFull
+5: item.planFull
+6: item.planFull
+7: item.planFull
+8: item.planFull
+9: item.planFull
+10: item.planFull
+11: item.planFull
+12: item.planFull
+13: item.planFull
+14: item.planFull
+15: item.planFull
+item.rpBag
+0: item.rpBag
+1: item.rpBag
+2: item.rpBag
+3: item.rpBag
+4: item.rpBag
+5: item.rpBag
+6: item.rpBag
+7: item.rpBag
+8: item.rpBag
+9: item.rpBag
+10: item.rpBag
+11: item.rpBag
+12: item.rpBag
+13: item.rpBag
+14: item.rpBag
+15: item.rpBag
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+item.handsawRuby
+item.handsawGreenSapphire
+item.handsawSapphire
+item.sickleWood
+item.sickleStone
+item.sickleIron
+item.sickleDiamond
+item.sickleGold
+item.sickleRuby
+item.sickleGreenSapphire
+item.sickleSapphire
+item.swordRuby
+item.swordGreenSapphire
+item.swordSapphire
+item.shovelRuby
+item.shovelGreenSapphire
+item.shovelSapphire
+item.pickaxeRuby
+item.pickaxeGreenSapphire
+item.pickaxeSapphire
+item.axeRuby
+item.axeGreenSapphire
+item.axeSapphire
+item.hoeRuby
+item.hoeGreenSapphire
+item.hoeSapphire
+null
+0: null
+item.athame
+item.woolcard
+item.rpSeedBag
+item.paintcan.empty
+item.paintcan.white
+item.paintcan.orange
+item.paintcan.magenta
+item.paintcan.lightBlue
+item.paintcan.yellow
+item.paintcan.lime
+item.paintcan.pink
+item.paintcan.gray
+item.paintcan.silver
+item.paintcan.cyan
+item.paintcan.purple
+item.paintcan.blue
+item.paintcan.brown
+item.paintcan.green
+item.paintcan.red
+item.paintcan.black
+item.paintbrush.dry
+item.paintbrush.white
+item.paintbrush.orange
+item.paintbrush.magenta
+item.paintbrush.lightBlue
+item.paintbrush.yellow
+item.paintbrush.lime
+item.paintbrush.pink
+item.paintbrush.gray
+item.paintbrush.silver
+item.paintbrush.cyan
+item.paintbrush.purple
+item.paintbrush.blue
+item.paintbrush.brown
+item.paintbrush.green
+item.paintbrush.red
+item.paintbrush.black
+item.voltmeter
+item.btbattery
+item.sonicDriver
+item.btbattery
+null
+0: null
+item.windTurbineWood
+item.windmillWood
+null
+0: null
+1: null
+2: null
+null
+0: null
+item.carton
+item.crate
+item.oakStick
+item.woodPulp
+item.kitPickaxe
+item.bronzePickaxe
+item.brokenBronzePickaxe
+item.kitShovel
+item.bronzeShovel
+item.brokenBronzeShovel
+item.mouldyWheat
+item.decayingWheat
+item.mulch
+item.honeyDrop
+0: item.honeyDrop
+1: item.honeyDrop
+2: item.honeyDrop
+3: item.honeyDrop
+4: item.honeyDrop
+5: item.honeyDrop
+6: item.honeyDrop
+7: item.honeyDrop
+8: item.honeyDrop
+9: item.honeyDrop
+10: item.honeyDrop
+11: item.honeyDrop
+12: item.honeyDrop
+13: item.honeyDrop
+14: item.honeyDrop
+15: item.honeyDrop
+item.scoop
+item.beeswax
+item.pollen
+0: item.pollen
+1: item.pollen
+2: item.pollen
+3: item.pollen
+4: item.pollen
+5: item.pollen
+6: item.pollen
+7: item.pollen
+8: item.pollen
+9: item.pollen
+10: item.pollen
+11: item.pollen
+12: item.pollen
+13: item.pollen
+14: item.pollen
+15: item.pollen
+item.propolis
+0: item.propolis
+1: item.propolis
+2: item.propolis
+3: item.propolis
+4: item.propolis
+5: item.propolis
+6: item.propolis
+7: item.propolis
+8: item.propolis
+9: item.propolis
+10: item.propolis
+11: item.propolis
+12: item.propolis
+13: item.propolis
+14: item.propolis
+15: item.propolis
+item.royalJelly
+item.honeydew
+item.waxCapsule
+item.honeyedSlice
+item.shortMead
+item.ambrosia
+item.waxCapsuleWater
+item.waxCapsuleBiomass
+item.waxCapsuleBiofuel
+item.bituminousPeat
+item.waxCapsuleOil
+item.waxCapsuleFuel
+item.canOil
+item.canFuel
+item.canLava
+item.apiaristBag
+null
+null
+null
+null
+item.honeyPot
+item.liquidSeedOil
+item.appleJuice
+item.liquidHoney
+item.canSeedOil
+item.canHoney
+item.canJuice
+item.waxCapsuleSeedOil
+item.waxCapsuleHoney
+item.waxCapsuleJuice
+item.phosphor
+item.refractoryWax
+item.refractoryEmpty
+item.refractoryLava
+item.refractoryWater
+item.refractoryBiomass
+item.refractoryBiofuel
+item.refractoryOil
+item.refractoryFuel
+item.refractorySeedOil
+item.refractoryHoney
+item.refractoryJuice
+item.beeQueenGE
+0: item.beeQueenGE
+1: item.beeQueenGE
+2: item.beeQueenGE
+3: item.beeQueenGE
+4: item.beeQueenGE
+5: item.beeQueenGE
+6: item.beeQueenGE
+7: item.beeQueenGE
+8: item.beeQueenGE
+9: item.beeQueenGE
+10: item.beeQueenGE
+11: item.beeQueenGE
+12: item.beeQueenGE
+13: item.beeQueenGE
+14: item.beeQueenGE
+15: item.beeQueenGE
+item.beeDroneGE
+0: item.beeDroneGE
+1: item.beeDroneGE
+2: item.beeDroneGE
+3: item.beeDroneGE
+4: item.beeDroneGE
+5: item.beeDroneGE
+6: item.beeDroneGE
+7: item.beeDroneGE
+8: item.beeDroneGE
+9: item.beeDroneGE
+10: item.beeDroneGE
+11: item.beeDroneGE
+12: item.beeDroneGE
+13: item.beeDroneGE
+14: item.beeDroneGE
+15: item.beeDroneGE
+item.beePrincessGE
+0: item.beePrincessGE
+1: item.beePrincessGE
+2: item.beePrincessGE
+3: item.beePrincessGE
+4: item.beePrincessGE
+5: item.beePrincessGE
+6: item.beePrincessGE
+7: item.beePrincessGE
+8: item.beePrincessGE
+9: item.beePrincessGE
+10: item.beePrincessGE
+11: item.beePrincessGE
+12: item.beePrincessGE
+13: item.beePrincessGE
+14: item.beePrincessGE
+15: item.beePrincessGE
+item.beealyzer
+null
+null
+null
+null
+null
+null
+item.craftingMaterial
+0: item.craftingMaterial
+1: item.craftingMaterial
+2: item.craftingMaterial
+3: item.craftingMaterial
+4: item.craftingMaterial
+5: item.craftingMaterial
+6: item.craftingMaterial
+7: item.craftingMaterial
+8: item.craftingMaterial
+9: item.craftingMaterial
+10: item.craftingMaterial
+11: item.craftingMaterial
+12: item.craftingMaterial
+13: item.craftingMaterial
+14: item.craftingMaterial
+15: item.craftingMaterial
+item.apiaristHelmet
+item.apiaristChest
+item.apiaristLegs
+item.apiaristBoots
+item.beeCombs
+0: item.beeCombs
+1: item.beeCombs
+2: item.beeCombs
+3: item.beeCombs
+4: item.beeCombs
+5: item.beeCombs
+6: item.beeCombs
+7: item.beeCombs
+8: item.beeCombs
+9: item.beeCombs
+10: item.beeCombs
+11: item.beeCombs
+12: item.beeCombs
+13: item.beeCombs
+14: item.beeCombs
+15: item.beeCombs
+item.biomeFinder
+null
+null
+item.infuser
+item.liquidMead
+item.imprinter
+item.pipette
+item.chipsets
+0: item.chipsets
+1: item.chipsets
+2: item.chipsets
+3: item.chipsets
+4: item.chipsets
+5: item.chipsets
+6: item.chipsets
+7: item.chipsets
+8: item.chipsets
+9: item.chipsets
+10: item.chipsets
+11: item.chipsets
+12: item.chipsets
+13: item.chipsets
+14: item.chipsets
+15: item.chipsets
+item.solderingIron
+item.thermionicTubes
+0: item.thermionicTubes
+1: item.thermionicTubes
+2: item.thermionicTubes
+3: item.thermionicTubes
+4: item.thermionicTubes
+5: item.thermionicTubes
+6: item.thermionicTubes
+7: item.thermionicTubes
+8: item.thermionicTubes
+9: item.thermionicTubes
+10: item.thermionicTubes
+11: item.thermionicTubes
+12: item.thermionicTubes
+13: item.thermionicTubes
+14: item.thermionicTubes
+15: item.thermionicTubes
+item.liquidGlass
+item.stamps
+0: item.stamps
+1: item.stamps
+2: item.stamps
+3: item.stamps
+4: item.stamps
+5: item.stamps
+6: item.stamps
+7: item.stamps
+8: item.stamps
+9: item.stamps
+10: item.stamps
+11: item.stamps
+12: item.stamps
+13: item.stamps
+14: item.stamps
+15: item.stamps
+item.letters
+item.liquidIce
+item.canIce
+item.waxCapsuleIce
+item.refractoryIce
+item.waxCast
+item.impregnatedCasing
+item.frameUntreated
+item.frameImpregnated
+item.frameProven
+null
+item.treealyzer
+item.fruits
+0: item.fruits
+1: item.fruits
+2: item.fruits
+3: item.fruits
+4: item.fruits
+5: item.fruits
+6: item.fruits
+7: item.fruits
+8: item.fruits
+9: item.fruits
+10: item.fruits
+11: item.fruits
+12: item.fruits
+13: item.fruits
+14: item.fruits
+15: item.fruits
+item.grafter
+item.cratedWood
+item.cratedCobblestone
+item.cratedDirt
+item.cratedStone
+item.cratedBrick
+item.cratedCacti
+item.cratedSand
+item.cratedObsidian
+item.cratedNetherrack
+item.cratedSoulsand
+item.cratedSandstone
+item.cratedBogearth
+item.cratedHumus
+item.cratedNetherbrick
+item.cratedPeat
+item.cratedApatite
+item.cratedFertilizer
+item.cratedTin
+item.cratedCopper
+item.cratedBronze
+item.cratedWheat
+item.cratedMycelium
+item.cratedMulch
+item.cratedSilver
+item.cratedBrass
+item.cratedNikolite
+item.cratedCookies
+item.cratedHoneycombs
+item.cratedBeeswax
+item.cratedPollen
+item.cratedPropolis
+item.cratedHoneydew
+item.cratedRoyalJelly
+item.cratedCocoaComb
+item.cratedRedstone
+item.cratedLapis
+item.cratedReeds
+item.cratedClay
+item.cratedGlowstone
+item.cratedApples
+item.cratedNetherwart
+item.cratedResin
+item.cratedRubber
+item.cratedScrap
+item.cratedUUM
+item.cratedSimmeringCombs
+item.cratedStringyCombs
+item.cratedFrozenCombs
+item.cratedDrippingCombs
+item.cratedRefractoryWax
+item.cratedPhosphor
+item.cratedAsh
+item.cratedCharcoal
+item.cratedGravel
+item.cratedCoal
+item.cratedSeeds
+item.cratedSaplings
+item.PipeItemsPropolis
+item.woodenGearItem
+item.stoneGearItem
+item.ironGearItem
+item.goldGearItem
+item.diamondGearItem
+item.templateItem
+item.wrenchItem
+item.bucketOil
+item.fuel
+item.pipeWaterproof
+item.bucketFuel
+item.pipeGate
+0: item.pipeGate
+1: item.pipeGate
+2: item.pipeGate
+3: item.pipeGate
+4: item.pipeGate
+5: item.pipeGate
+6: item.pipeGate
+7: item.pipeGate
+8: item.pipeGate
+9: item.pipeGate
+10: item.pipeGate
+11: item.pipeGate
+12: item.pipeGate
+13: item.pipeGate
+14: item.pipeGate
+15: item.pipeGate
+item.redPipeWire
+item.bluePipeWire
+item.greenPipeWire
+item.yellowPipeWire
+item.redstoneChipset
+0: item.redstoneChipset
+1: item.redstoneChipset
+2: item.redstoneChipset
+3: item.redstoneChipset
+4: item.redstoneChipset
+5: item.redstoneChipset
+6: item.redstoneChipset
+7: item.redstoneChipset
+8: item.redstoneChipset
+9: item.redstoneChipset
+10: item.redstoneChipset
+11: item.redstoneChipset
+12: item.redstoneChipset
+13: item.redstoneChipset
+14: item.redstoneChipset
+15: item.redstoneChipset
+item.blueprintItem
+item.pipeGateAutarchic
+0: item.pipeGateAutarchic
+1: item.pipeGateAutarchic
+2: item.pipeGateAutarchic
+3: item.pipeGateAutarchic
+4: item.pipeGateAutarchic
+5: item.pipeGateAutarchic
+6: item.pipeGateAutarchic
+7: item.pipeGateAutarchic
+8: item.pipeGateAutarchic
+9: item.pipeGateAutarchic
+10: item.pipeGateAutarchic
+11: item.pipeGateAutarchic
+12: item.pipeGateAutarchic
+13: item.pipeGateAutarchic
+14: item.pipeGateAutarchic
+15: item.pipeGateAutarchic
+item.pipeFacade
+0: item.pipeFacade
+1: item.pipeFacade
+2: item.pipeFacade
+3: item.pipeFacade
+4: item.pipeFacade
+5: item.pipeFacade
+6: item.pipeFacade
+7: item.pipeFacade
+8: item.pipeFacade
+9: item.pipeFacade
+10: item.pipeFacade
+11: item.pipeFacade
+12: item.pipeFacade
+13: item.pipeFacade
+14: item.pipeFacade
+15: item.pipeFacade
+item.PipeItemsWood
+item.PipeItemsCobblestone
+item.PipeItemsStone
+item.PipeItemsIron
+item.PipeItemsGold
+item.PipeItemsDiamond
+item.PipeItemsObsidian
+item.PipeItemsEmerald
+item.PipeLiquidsWood
+item.PipeLiquidsCobblestone
+item.PipeLiquidsStone
+item.PipeLiquidsIron
+item.PipeLiquidsGold
+item.PipeLiquidsEmerald
+item.PipePowerWood
+item.PipePowerStone
+item.PipePowerGold
+item.PipeItemsVoid
+item.PipeLiquidsVoid
+item.PipeItemsSandstone
+item.PipeLiquidsSandstone
+item.PipeStructureCobblestone
+item.ironGoldUpgrade
+item.goldDiamondUpgrade
+item.copperSilverUpgrade
+item.silverGoldUpgrade
+item.copperIronUpgrade
+item.diamondCrystalUpgrade
+item.woodIronUpgrade
+item.woodCopperUpgrade
+item.diamondObsidianUpgrade
+item.solarHatLV
+item.solarHatMV
+item.solarHatHV
+item.arcanecompound
+item.arcaneash
+item.arcaneessence
+item.earthessence
+item.airessence
+item.fireessence
+item.plantessence
+item.lightningessence
+item.pureessence
+item.lifeEssence
+item.enderEssence
+item.spellparchment
+item.spellbook
+item.blankrune
+item.redrune
+item.bluerune
+item.yellowrune
+item.orangerune
+item.purplerune
+item.greenrune
+item.whiterune
+item.blackrune
+item.Novice Hood
+item.Novice Armor
+item.Novice Leggings
+item.Novice Boots
+item.Journeyman Hood
+item.Journeyman Armor
+item.Journeyman Leggings
+item.Journeyman Boots
+item.Master Hood
+item.Master Armor
+item.Master Leggings
+item.Master Boots
+item.Archmage Hood
+item.Archmage Armor
+item.Archmage Leggings
+item.Archmage Boots
+item.BlueChalk
+item.lesserfocus
+item.standardfocus
+item.greaterfocus
+item.manafocus
+item.chargefocus
+item.spellrecipescroll
+item.bookairaffinity
+item.bookarcaneaffinity
+item.bookclearaffinity
+item.bookearthaffinity
+item.bookenderaffinity
+item.bookfireaffinity
+item.bookiceaffinity
+item.booklifeaffinity
+item.booklightningaffinity
+item.bookmagmaaffinity
+item.bookplantaffinity
+item.bookwateraffinity
+item.manascepter
+item.keystone
+item.purplechalk
+item.redchalk
+item.playerfocus
+item.monsterfocus
+item.itemfocus
+item.creaurefocus
+item.whitechalk
+item.vinteumdust
+item.purifiedvinteum
+item.boundhoedim
+item.boundhoenor
+item.boundhoeaug
+item.boundaxedim
+item.boundaxenor
+item.boundaxeaug
+item.boundpickaxedim
+item.boundpickaxenor
+item.boundpickaxeaug
+item.boundshoveldim
+item.boundshovelnor
+item.boundshovelaug
+item.boundsworddim
+item.boundswordnor
+item.boundswordaug
+item.manacake
+item.spellstaffnovice
+item.spellstaffjourneyman
+item.spellstaffmaster
+item.lessermanapotion
+item.standardmanapotion
+item.greatermanapotion
+item.epicmanapotion
+item.legendarymanapotion
+item.customspellscroll
+item.lostjournal
+item.essencecore
+item.GT_Materials
+0: item.GT_Materials
+1: item.GT_Materials
+2: item.GT_Materials
+3: item.GT_Materials
+4: item.GT_Materials
+5: item.GT_Materials
+6: item.GT_Materials
+7: item.GT_Materials
+8: item.GT_Materials
+9: item.GT_Materials
+10: item.GT_Materials
+11: item.GT_Materials
+12: item.GT_Materials
+13: item.GT_Materials
+14: item.GT_Materials
+15: item.GT_Materials
+item.GT_Dusts
+0: item.GT_Dusts
+1: item.GT_Dusts
+2: item.GT_Dusts
+3: item.GT_Dusts
+4: item.GT_Dusts
+5: item.GT_Dusts
+6: item.GT_Dusts
+7: item.GT_Dusts
+8: item.GT_Dusts
+9: item.GT_Dusts
+10: item.GT_Dusts
+11: item.GT_Dusts
+12: item.GT_Dusts
+13: item.GT_Dusts
+14: item.GT_Dusts
+15: item.GT_Dusts
+item.GT_Cells
+0: item.GT_Cells
+1: item.GT_Cells
+2: item.GT_Cells
+3: item.GT_Cells
+4: item.GT_Cells
+5: item.GT_Cells
+6: item.GT_Cells
+7: item.GT_Cells
+8: item.GT_Cells
+9: item.GT_Cells
+10: item.GT_Cells
+11: item.GT_Cells
+12: item.GT_Cells
+13: item.GT_Cells
+14: item.GT_Cells
+15: item.GT_Cells
+item.GT_Components
+0: item.GT_Components
+1: item.GT_Components
+2: item.GT_Components
+3: item.GT_Components
+4: item.GT_Components
+5: item.GT_Components
+6: item.GT_Components
+7: item.GT_Components
+8: item.GT_Components
+9: item.GT_Components
+10: item.GT_Components
+11: item.GT_Components
+12: item.GT_Components
+13: item.GT_Components
+14: item.GT_Components
+15: item.GT_Components
+item.GT_SmallDusts
+0: item.GT_SmallDusts
+1: item.GT_SmallDusts
+2: item.GT_SmallDusts
+3: item.GT_SmallDusts
+4: item.GT_SmallDusts
+5: item.GT_SmallDusts
+6: item.GT_SmallDusts
+7: item.GT_SmallDusts
+8: item.GT_SmallDusts
+9: item.GT_SmallDusts
+10: item.GT_SmallDusts
+11: item.GT_SmallDusts
+12: item.GT_SmallDusts
+13: item.GT_SmallDusts
+14: item.GT_SmallDusts
+15: item.GT_SmallDusts
+item.GT_Nuggets
+0: item.GT_Nuggets
+1: item.GT_Nuggets
+2: item.GT_Nuggets
+3: item.GT_Nuggets
+4: item.GT_Nuggets
+5: item.GT_Nuggets
+6: item.GT_Nuggets
+7: item.GT_Nuggets
+8: item.GT_Nuggets
+9: item.GT_Nuggets
+10: item.GT_Nuggets
+11: item.GT_Nuggets
+12: item.GT_Nuggets
+13: item.GT_Nuggets
+14: item.GT_Nuggets
+15: item.GT_Nuggets
+item.GT_Liquids
+0: item.GT_Liquids
+1: item.GT_Liquids
+2: item.GT_Liquids
+3: item.GT_Liquids
+4: item.GT_Liquids
+5: item.GT_Liquids
+6: item.GT_Liquids
+7: item.GT_Liquids
+8: item.GT_Liquids
+9: item.GT_Liquids
+10: item.GT_Liquids
+11: item.GT_Liquids
+12: item.GT_Liquids
+13: item.GT_Liquids
+14: item.GT_Liquids
+15: item.GT_Liquids
+item.GT_Gasses
+0: item.GT_Gasses
+1: item.GT_Gasses
+2: item.GT_Gasses
+3: item.GT_Gasses
+4: item.GT_Gasses
+5: item.GT_Gasses
+6: item.GT_Gasses
+7: item.GT_Gasses
+8: item.GT_Gasses
+9: item.GT_Gasses
+10: item.GT_Gasses
+11: item.GT_Gasses
+12: item.GT_Gasses
+13: item.GT_Gasses
+14: item.GT_Gasses
+15: item.GT_Gasses
+item.GT_Plasma
+0: item.GT_Plasma
+1: item.GT_Plasma
+2: item.GT_Plasma
+3: item.GT_Plasma
+4: item.GT_Plasma
+5: item.GT_Plasma
+6: item.GT_Plasma
+7: item.GT_Plasma
+8: item.GT_Plasma
+9: item.GT_Plasma
+10: item.GT_Plasma
+11: item.GT_Plasma
+12: item.GT_Plasma
+13: item.GT_Plasma
+14: item.GT_Plasma
+15: item.GT_Plasma
+item.Ultimate_Cheat_Armor
+item.Iron_Mortar
+item.Flint_Mortar
+item.Sonictron
+item.Destructopack
+item.60k_Helium_Coolantcell
+item.180k_Helium_Coolantcell
+item.360k_Helium_Coolantcell
+item.Lapotronic_Energyorb
+item.Cloaking_Device
+item.Iron_Jack_Hammer
+item.Iridium_Neutronreflector
+item.Steel_Jack_Hammer
+item.Diamond_Jack_Hammer
+item.Dataorb
+item.Lighthelmet
+item.Lapotronpack
+item.Rockcutter
+item.Teslastaff
+item.Thoriumcell
+item.Double_Thoriumcell
+item.Quad_Thoriumcell
+item.Plutoniumcell
+item.Double_Plutoniumcell
+item.Quad_Plutoniumcell
+item.Debug_Scanner
+item.Lithium_Battery_Empty
+item.Lithium_Battery
+item.Lithium_Batpack
+item.60k_NaK_Coolantcell
+item.180k_NaK_Coolantcell
+item.360k_NaK_Coolantcell
+item.spellgrowth
+item.spellfirebolt
+item.spellgust
+item.spelljump
+item.spellearthshift
+item.spelldig
+item.spellaqua
+item.spellfurnacetouch
+item.spellarcanebolt
+item.spellfrozenpath
+item.spelllightningbolt
+item.spellwaterbreathing
+item.spellflight
+item.spellfeatherfall
+item.spellhaste
+item.spellhealself
+item.spelltruesight
+item.spellfirerune
+item.spellshockwave
+item.spelltelekinesis
+item.spellmark
+item.spellrecall
+item.spelldivineintervention
+item.spellenderintervention
+item.spellblink
+item.spellregeneration
+item.spellhealother
+item.spellregenerateother
+item.spelllifetap
+item.spellfireburst
+item.spellsummonearthgolem
+item.spellsummonskeleton
+item.spellsummonfireelemental
+item.spellsummonlich
+item.spellmagelight
+item.spellcallrain
+item.spellfireball
+item.spellguardianarcanebolt
+item.spellsummonbattlechicken
+item.spellfireshield
+item.spellwatershield
+item.spellsummondryad
+item.spellmagicshield
+item.spelllightningstorm
+item.spellmeteorjump
+item.spellchainlightning
+item.spelldispel
+item.spelldebug
+item.spellcharm
+item.spellarcticwind
+item.spellfrostbolt
+item.spellicerune
+item.spellearthshiftdown
+item.spellsenseenergy
+item.spelllifedrain
+item.spellmanadrain
+item.spellchronoanchor
+item.spelltransplace
+item.spelldigii
+item.spellinvisibility
+item.spellnightvision
+item.spellinsectswarm
+item.spelldrainingpoison
+item.spelldrown
+item.spellenderbolt
+item.spellvortex
+item.spellchannelessence
+item.spellclarivoyance
+item.spelldesertcurse
+item.spellentangle
+item.spellparasiticseed
+item.spellwaterygrave
+item.spellwindtalons
+item.spellskybreath
+item.spelldeathkiss
+item.spellscarletflames
+item.spellwizardsautumn
+item.spellhandspasms
+item.spellsevenleaguestride
+item.spellsturdyvine
+item.spellprotectingwinds
+item.spellsummonshadow
+item.spellhealingring
+item.spellswiftswim
+item.spellreflect
+item.spellagility
+item.spellaccelerate
+item.spellwallofthorns
+item.spellparchingwind
+item.spellboundhoe
+item.spellboundaxe
+item.spellboundpickaxe
+item.spellboundshovel
+item.spellboundsword
+item.spelltillthefields
+item.spellreapingscythe
+item.spellsowtheseeds
+item.spellmagmaball
+item.spellmagmashield
+item.spellelectrocute
+item.spellstabilizevortex
+item.arcanebeam
+item.blazingbeam
+item.healingbeam
+item.jolt
+item.gravityWell
+item.WandCastingApprentice
+item.WandCastingAdept
+item.WandCastingMage
+item.WandFire
+item.WandLightning
+item.ItemEssence
+0: item.ItemEssence
+1: item.ItemEssence
+2: item.ItemEssence
+3: item.ItemEssence
+4: item.ItemEssence
+5: item.ItemEssence
+6: item.ItemEssence
+7: item.ItemEssence
+8: item.ItemEssence
+9: item.ItemEssence
+10: item.ItemEssence
+11: item.ItemEssence
+12: item.ItemEssence
+13: item.ItemEssence
+14: item.ItemEssence
+15: item.ItemEssence
+item.ItemWispEssence
+0: item.ItemWispEssence
+1: item.ItemWispEssence
+2: item.ItemWispEssence
+3: item.ItemWispEssence
+4: item.ItemWispEssence
+5: item.ItemWispEssence
+6: item.ItemWispEssence
+7: item.ItemWispEssence
+8: item.ItemWispEssence
+9: item.ItemWispEssence
+10: item.ItemWispEssence
+11: item.ItemWispEssence
+12: item.ItemWispEssence
+13: item.ItemWispEssence
+14: item.ItemWispEssence
+15: item.ItemWispEssence
+item.ItemResource
+0: item.ItemResource
+1: item.ItemResource
+2: item.ItemResource
+3: item.ItemResource
+4: item.ItemResource
+5: item.ItemResource
+6: item.ItemResource
+7: item.ItemResource
+8: item.ItemResource
+9: item.ItemResource
+10: item.ItemResource
+11: item.ItemResource
+12: item.ItemResource
+13: item.ItemResource
+14: item.ItemResource
+15: item.ItemResource
+item.ItemShard
+0: item.ItemShard
+1: item.ItemShard
+2: item.ItemShard
+3: item.ItemShard
+4: item.ItemShard
+5: item.ItemShard
+6: item.ItemShard
+7: item.ItemShard
+8: item.ItemShard
+9: item.ItemShard
+10: item.ItemShard
+11: item.ItemShard
+12: item.ItemShard
+13: item.ItemShard
+14: item.ItemShard
+15: item.ItemShard
+item.ItemResearchNotes
+0: item.ItemResearchNotes
+1: item.ItemResearchNotes
+2: item.ItemResearchNotes
+3: item.ItemResearchNotes
+4: item.ItemResearchNotes
+5: item.ItemResearchNotes
+6: item.ItemResearchNotes
+7: item.ItemResearchNotes
+8: item.ItemResearchNotes
+9: item.ItemResearchNotes
+10: item.ItemResearchNotes
+11: item.ItemResearchNotes
+12: item.ItemResearchNotes
+13: item.ItemResearchNotes
+14: item.ItemResearchNotes
+15: item.ItemResearchNotes
+item.ItemInkwell
+item.ItemThaumonomicon
+0: item.ItemThaumonomicon
+1: item.ItemThaumonomicon
+2: item.ItemThaumonomicon
+3: item.ItemThaumonomicon
+4: item.ItemThaumonomicon
+5: item.ItemThaumonomicon
+6: item.ItemThaumonomicon
+7: item.ItemThaumonomicon
+8: item.ItemThaumonomicon
+9: item.ItemThaumonomicon
+10: item.ItemThaumonomicon
+11: item.ItemThaumonomicon
+12: item.ItemThaumonomicon
+13: item.ItemThaumonomicon
+14: item.ItemThaumonomicon
+15: item.ItemThaumonomicon
+item.ItemPortableHole
+item.ItemThaumometer
+item.ItemFlyingCarpet
+item.ItemGolemPlacer
+0: item.ItemGolemPlacer
+1: item.ItemGolemPlacer
+2: item.ItemGolemPlacer
+3: item.ItemGolemPlacer
+4: item.ItemGolemPlacer
+5: item.ItemGolemPlacer
+6: item.ItemGolemPlacer
+7: item.ItemGolemPlacer
+8: item.ItemGolemPlacer
+9: item.ItemGolemPlacer
+10: item.ItemGolemPlacer
+11: item.ItemGolemPlacer
+12: item.ItemGolemPlacer
+13: item.ItemGolemPlacer
+14: item.ItemGolemPlacer
+15: item.ItemGolemPlacer
+item.ItemGoggles
+item.ItemHelmetThaumium
+item.ItemChestplateThaumium
+item.ItemLeggingsThaumium
+item.ItemBootsThaumium
+item.ItemShovelThaumium
+item.ItemPickThaumium
+item.ItemAxeThaumium
+item.ItemSwordThaumium
+item.ItemHoeThaumium
+item.ItemGolemCore
+0: item.ItemGolemCore
+1: item.ItemGolemCore
+2: item.ItemGolemCore
+3: item.ItemGolemCore
+4: item.ItemGolemCore
+5: item.ItemGolemCore
+6: item.ItemGolemCore
+7: item.ItemGolemCore
+8: item.ItemGolemCore
+9: item.ItemGolemCore
+10: item.ItemGolemCore
+11: item.ItemGolemCore
+12: item.ItemGolemCore
+13: item.ItemGolemCore
+14: item.ItemGolemCore
+15: item.ItemGolemCore
+item.WandTrade
+item.WandExcavation
+item.ItemArcaneDoor
+item.ItemNugget
+0: item.ItemNugget
+1: item.ItemNugget
+2: item.ItemNugget
+3: item.ItemNugget
+4: item.ItemNugget
+5: item.ItemNugget
+6: item.ItemNugget
+7: item.ItemNugget
+8: item.ItemNugget
+9: item.ItemNugget
+10: item.ItemNugget
+11: item.ItemNugget
+12: item.ItemNugget
+13: item.ItemNugget
+14: item.ItemNugget
+15: item.ItemNugget
+item.BootsTraveller
+item.ItemNuggetChicken
+item.ItemNuggetBeef
+item.ItemNuggetPork
+item.BlockJarFilledItem
+item.ItemGolemDecoration
+0: item.ItemGolemDecoration
+1: item.ItemGolemDecoration
+2: item.ItemGolemDecoration
+3: item.ItemGolemDecoration
+4: item.ItemGolemDecoration
+5: item.ItemGolemDecoration
+6: item.ItemGolemDecoration
+7: item.ItemGolemDecoration
+8: item.ItemGolemDecoration
+9: item.ItemGolemDecoration
+10: item.ItemGolemDecoration
+11: item.ItemGolemDecoration
+12: item.ItemGolemDecoration
+13: item.ItemGolemDecoration
+14: item.ItemGolemDecoration
+15: item.ItemGolemDecoration
+item.Hellrod
+item.WandFrost
+item.TripleMeatTreat
+item.ItemSwordElemental
+item.ItemShovelElemental
+item.ItemPickaxeElemental
+item.ItemAxeElemental
+item.ItemHoeElemental
+item.ItemChestplateRobe
+item.ItemLeggingsRobe
+item.ItemBootsRobe
+item.ArcaneDoorKey
+0: item.ArcaneDoorKey
+1: item.ArcaneDoorKey
+2: item.ArcaneDoorKey
+3: item.ArcaneDoorKey
+4: item.ArcaneDoorKey
+5: item.ArcaneDoorKey
+6: item.ArcaneDoorKey
+7: item.ArcaneDoorKey
+8: item.ArcaneDoorKey
+9: item.ArcaneDoorKey
+10: item.ArcaneDoorKey
+11: item.ArcaneDoorKey
+12: item.ArcaneDoorKey
+13: item.ArcaneDoorKey
+14: item.ArcaneDoorKey
+15: item.ArcaneDoorKey
+item.HandMirror
+item.nagaScale
+item.plateNaga
+item.legsNaga
+item.scepterTwilight
+item.scepterLifeDrain
+item.scepterZombie
+item.oreMeter
+item.magicMap
+0: item.magicMap
+1: item.magicMap
+2: item.magicMap
+3: item.magicMap
+4: item.magicMap
+5: item.magicMap
+6: item.magicMap
+7: item.magicMap
+8: item.magicMap
+9: item.magicMap
+10: item.magicMap
+11: item.magicMap
+12: item.magicMap
+13: item.magicMap
+14: item.magicMap
+15: item.magicMap
+item.mazeMap
+0: item.mazeMap
+1: item.mazeMap
+2: item.mazeMap
+3: item.mazeMap
+4: item.mazeMap
+5: item.mazeMap
+6: item.mazeMap
+7: item.mazeMap
+8: item.mazeMap
+9: item.mazeMap
+10: item.mazeMap
+11: item.mazeMap
+12: item.mazeMap
+13: item.mazeMap
+14: item.mazeMap
+15: item.mazeMap
+item.oreMap
+0: item.oreMap
+1: item.oreMap
+2: item.oreMap
+3: item.oreMap
+4: item.oreMap
+5: item.oreMap
+6: item.oreMap
+7: item.oreMap
+8: item.oreMap
+9: item.oreMap
+10: item.oreMap
+11: item.oreMap
+12: item.oreMap
+13: item.oreMap
+14: item.oreMap
+15: item.oreMap
+item.tfFeather
+item.magicMapFocus
+item.mazeMapFocus
+item.liveRoot
+item.ironwoodRaw
+item.ironwoodIngot
+item.ironwoodHelm
+item.ironwoodPlate
+item.ironwoodLegs
+item.ironwoodBoots
+item.ironwoodSword
+item.ironwoodShovel
+item.ironwoodPick
+item.ironwoodAxe
+item.ironwoodHoe
+item.torchberries
+item.tfspawnegg
+0: item.tfspawnegg
+1: item.tfspawnegg
+2: item.tfspawnegg
+3: item.tfspawnegg
+4: item.tfspawnegg
+5: item.tfspawnegg
+6: item.tfspawnegg
+7: item.tfspawnegg
+8: item.tfspawnegg
+9: item.tfspawnegg
+10: item.tfspawnegg
+11: item.tfspawnegg
+12: item.tfspawnegg
+13: item.tfspawnegg
+14: item.tfspawnegg
+15: item.tfspawnegg
+item.venisonRaw
+item.venisonCooked
+item.hydraChop
+item.fieryBlood
+item.hydraTrophy
+0: item.hydraTrophy
+1: item.hydraTrophy
+2: item.hydraTrophy
+3: item.hydraTrophy
+4: item.hydraTrophy
+5: item.hydraTrophy
+6: item.hydraTrophy
+7: item.hydraTrophy
+8: item.hydraTrophy
+9: item.hydraTrophy
+10: item.hydraTrophy
+11: item.hydraTrophy
+12: item.hydraTrophy
+13: item.hydraTrophy
+14: item.hydraTrophy
+15: item.hydraTrophy
+item.fieryIngot
+item.fieryHelm
+item.fieryPlate
+item.fieryLegs
+item.fieryBoots
+item.fierySword
+item.fieryPick
+item.steeleafIngot
+item.steeleafHelm
+item.steeleafPlate
+item.steeleafLegs
+item.steeleafBoots
+item.steeleafSword
+item.steeleafShovel
+item.steeleafPick
+item.steeleafAxe
+item.steeleafHoe
+item.minotaurAxe
+item.mazebreakerPick
+item.transformPowder
+item.meefRaw
+item.meefSteak
+item.meefStroganoff
+item.mazeWafer
+item.emptyMagicMap
+item.emptyMazeMap
+item.emptyOreMap
+item.oreMagnet
+item.crumbleHorn
+item.peacockFan
+item.moonwormQueen
+item.charmOfLife1
+item.charmOfLife2
+item.charmOfKeeping2
+item.charmOfKeeping3
+item.charmOfKeeping1
+item.towerKey
+item.itemNightvisionGoggles
+item.itemCellAir
+item.itemArmorHazmatLeggings
+item.itemArmorHazmatChestplate
+item.itemArmorHazmatHelmet
+item.reactorCondensatorLap
+item.itemPartDCP
+item.reactorCondensator
+item.reactorReflectorThick
+item.reactorReflector
+item.reactorHeatpack
+item.reactorVentDiamond
+item.reactorVentSpread
+item.reactorVentGold
+item.reactorVentCore
+item.reactorVent
+item.reactorHeatSwitchDiamond
+item.reactorHeatSwitchSpread
+item.reactorHeatSwitchCore
+item.reactorPlatingExplosive
+item.reactorPlatingHeat
+item.reactorCoolantSix
+item.reactorCoolantTriple
+item.reactorUraniumQuad
+item.reactorUraniumDual
+item.itemCoolant
+null
+item.itemWeedEx
+item.itemGrinPowder
+null
+item.itemBarrel
+item.itemHops
+null
+item.itemMugEmpty
+item.itemCoffeePowder
+item.itemCoffeeBeans
+item.itemTerraWart
+item.itemStaticBoots
+item.itemSolarHelmet
+item.itemToolbox
+item.itemTFBPMushroom
+item.itemToolHoe
+item.itemCellHydrant
+item.itemFertilizer
+item.itemCropnalyzer
+item.itemTreetapElectric
+null
+0: null
+1: null
+2: null
+item.itemCropSeed
+item.itemArmorLappack
+item.itemOreIridium
+item.itemArmorCFPack
+item.itemDustSilver
+item.itemFoamSprayer
+item.itemPartPellet
+item.itemDustClay
+item.itemFreq
+item.itemPartIndustrialDiamond
+item.itemPartCoalChunk
+item.itemPartCoalBlock
+item.itemPartCoalBall
+item.itemScrapbox
+item.itemToolWrenchElectric
+item.itemTFBPFlatification
+item.itemTFBPDesertification
+item.itemTFBPChilling
+item.itemTFBPIrrigation
+item.itemTFBPCultivation
+item.itemTFBP
+item.itemPartIridium
+item.itemNanoSaber
+item.itemNanoSaber
+item.itemPartCarbonPlate
+item.itemPartCarbonMesh
+item.itemPartCarbonFibre
+item.itemToolCutter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemToolPainter
+item.itemArmorQuantumBoots
+item.itemArmorQuantumLegs
+item.itemArmorQuantumChestplate
+item.itemArmorQuantumHelmet
+item.itemArmorNanoBoots
+item.itemArmorNanoLegs
+item.itemArmorNanoChestplate
+item.itemArmorNanoHelmet
+item.itemArmorAlloyChestplate
+item.itemArmorBatpack
+item.itemCellWaterElectro
+item.itemToolMeter
+item.itemToolWrench
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+10: null
+11: null
+12: null
+item.itemDoorAlloy
+item.itemCoin
+item.itemPartAlloy
+item.itemMatter
+item.itemScrap
+item.itemPartCircuitAdv
+item.itemPartCircuit
+item.itemArmorBronzeBoots
+item.itemArmorBronzeLegs
+item.itemArmorBronzeChestplate
+item.itemArmorBronzeHelmet
+item.itemToolBronzeHoe
+item.itemToolBronzeSpade
+item.itemToolBronzeSword
+item.itemToolBronzeAxe
+item.itemToolBronzePickaxe
+item.itemCellUranEmpty
+item.itemCellUranEnriched
+item.reactorIsotopeCell
+item.reactorHeatSwitch
+item.reactorPlating
+item.reactorCoolantSimple
+item.reactorUraniumSimple
+item.itemToolMiningLaser
+item.itemArmorJetpackElectric
+item.itemArmorJetpack
+item.itemArmorRubBoots
+item.itemTreetap
+item.itemRemote
+item.itemDynamiteSticky
+item.itemDynamite
+item.itemRubber
+item.itemHarz
+item.itemCellWater
+item.itemScannerAdv
+item.itemScanner
+item.itemTinCanFilled
+0: item.itemTinCanFilled
+1: item.itemTinCanFilled
+2: item.itemTinCanFilled
+3: item.itemTinCanFilled
+4: item.itemTinCanFilled
+5: item.itemTinCanFilled
+6: item.itemTinCanFilled
+7: item.itemTinCanFilled
+8: item.itemTinCanFilled
+9: item.itemTinCanFilled
+10: item.itemTinCanFilled
+11: item.itemTinCanFilled
+12: item.itemTinCanFilled
+13: item.itemTinCanFilled
+14: item.itemTinCanFilled
+15: item.itemTinCanFilled
+item.itemTinCan
+item.itemFuelPlantCmpr
+item.itemFuelPlantBall
+item.itemFuelCoalCmpr
+item.itemFuelCoalDust
+item.itemCellBioRef
+item.itemCellCoalRef
+item.itemCellBio
+item.itemCellCoal
+item.itemFuelCanEmpty
+item.itemFuelCan
+item.itemToolChainsaw
+item.itemToolDDrill
+item.itemToolDrill
+item.itemCellLava
+item.itemCellEmpty
+item.itemBatSU
+item.itemBatRE
+item.itemBatLamaCrystal
+item.itemBatCrystal
+item.itemBatRE
+item.itemOreUran
+item.itemIngotUran
+item.itemIngotAlloy
+item.itemIngotBronze
+item.itemIngotTin
+item.itemIngotCopper
+item.itemIngotAdvIron
+item.itemDustIronSmall
+item.itemDustBronze
+item.itemDustTin
+item.itemDustCopper
+item.itemDustGold
+item.itemDustIron
+item.itemDustCoal
+item.bioMass
+item.bioFuel
+item.liquidMilk
+item.biofuelCan
+item.biomassCan
+item.waterCan
+item.bucketBiofuel
+item.bucketBiomass
+item.canEmpty
+item.iodineCapsule
+item.gearTin
+item.gearCopper
+item.gearBronze
+item.ash
+item.peat
+item.vialCatalyst
+item.hardenedMachine
+item.sturdyMachine
+item.wrench
+item.ingotBronze
+item.ingotTin
+item.ingotCopper
+item.apatite
+item.fertilizerCompound
+item.fertilizerBio
+item.liquid
+0: item.liquid
+1: item.liquid
+2: item.liquid
+3: item.liquid
+4: item.liquid
+5: item.liquid
+6: item.liquid
+7: item.liquid
+8: item.liquid
+9: item.liquid
+10: item.liquid
+11: item.liquid
+12: item.liquid
+13: item.liquid
+14: item.liquid
+15: item.liquid
+item.material
+0: item.material
+1: item.material
+2: item.material
+3: item.material
+4: item.material
+5: item.material
+6: item.material
+7: item.material
+8: item.material
+9: item.material
+10: item.material
+11: item.material
+12: item.material
+13: item.material
+14: item.material
+15: item.material
+item.component
+0: item.component
+1: item.component
+2: item.component
+3: item.component
+4: item.component
+5: item.component
+6: item.component
+7: item.component
+8: item.component
+9: item.component
+10: item.component
+11: item.component
+12: item.component
+13: item.component
+14: item.component
+15: item.component
+item.tool
+0: item.tool
+1: item.tool
+2: item.tool
+3: item.tool
+4: item.tool
+5: item.tool
+6: item.tool
+7: item.tool
+8: item.tool
+9: item.tool
+10: item.tool
+11: item.tool
+12: item.tool
+13: item.tool
+14: item.tool
+15: item.tool
+item.tool
+0: item.tool
+1: item.tool
+2: item.tool
+3: item.tool
+4: item.tool
+5: item.tool
+6: item.tool
+7: item.tool
+8: item.tool
+9: item.tool
+10: item.tool
+11: item.tool
+12: item.tool
+13: item.tool
+14: item.tool
+15: item.tool
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+10: null
+11: null
+12: null
+13: null
+14: null
+15: null
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+10: null
+11: null
+12: null
+13: null
+14: null
+15: null
+null
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: null
+8: null
+9: null
+10: null
+11: null
+12: null
+13: null
+14: null
+15: null
+item.tool
+0: item.tool
+1: item.tool
+2: item.tool
+3: item.tool
+4: item.tool
+5: item.tool
+6: item.tool
+7: item.tool
+8: item.tool
+9: item.tool
+10: item.tool
+11: item.tool
+12: item.tool
+13: item.tool
+14: item.tool
+15: item.tool
+item.musicbox
+*
+*
+*
+Outputting all the Names inside the Biomeslist
+*
+*
+*
+0 = Ocean
+1 = Plains
+2 = Desert
+3 = Extreme Hills
+4 = Forest
+5 = Taiga
+6 = Swampland
+7 = River
+8 = Hell
+9 = Sky
+10 = FrozenOcean
+11 = FrozenRiver
+12 = Ice Plains
+13 = Ice Mountains
+14 = MushroomIsland
+15 = MushroomIslandShore
+16 = Beach
+17 = DesertHills
+18 = ForestHills
+19 = TaigaHills
+20 = Extreme Hills Edge
+21 = Jungle
+22 = JungleHills
+24 = Dravite
+25 = Azurite
+26 = Uvite
+27 = Mythril
+28 = Augite
+29 = Arcana
+30 = IceikaMountians
+70 = Twilight Lake
+71 = Twilight Forest
+72 = Dense Twilight Forest
+73 = Highlands
+74 = Mushrooms
+75 = Twilight Swamp
+76 = Twilight Stream
+77 = Snowy Forest
+78 = Glacier
+79 = Twilight Clearing
+80 = Clearing Border
+81 = Lake Border
+82 = Lots of Mushrooms
+83 = Major Feature
+84 = Minor Feature
+85 = Dark Forest
+86 = Enchanted Forest
+87 = Fire Swamp
+*
+*
+*
+END GregTech-Debug
+*
+*
+*
